@@ -1,0 +1,36 @@
+{{ define "main" }}
+{{ $landing := hugo.Data.landing }}
+{{ $pdf := partialCached "catalog/pdf.html" . }}
+<section class="home-hero">
+  <div class="container">
+    <div class="row align-items-center g-lg-5">
+      <div class="col-lg-6">
+        <p class="eyebrow">{{ $landing.hero.eyebrow }}</p>
+        <h1>{{ $landing.hero.title }}<br><span>{{ $landing.hero.accent }}</span></h1>
+        <p class="hero-description">{{ $landing.hero.description }}</p>
+        <div class="hero-actions"><a class="btn btn-primary btn-lg" href="{{ $landing.hero.primary_url | relURL }}">{{ $landing.hero.primary_label }} <span aria-hidden="true">↗</span></a><a class="btn btn-outline-primary btn-lg" href="{{ $landing.hero.secondary_url | relURL }}">{{ $landing.hero.secondary_label }}</a></div>
+        <p class="hero-location"><span class="location-dot" aria-hidden="true"></span> Based in Coimbatore, Tamil Nadu</p>
+      </div>
+      <div class="col-lg-6 hero-visual">
+        {{ partial "catalog/image.html" (dict "src" $landing.hero.image "alt" $landing.hero.image_alt "width" 1100 "class" "hero-image" "loading" "eager") }}
+        <div class="hero-caption"><span>Engineered for window & door fabrication</span><a href="{{ $pdf.RelPermalink }}" download>Download catalogue ↓</a></div>
+      </div>
+    </div>
+  </div>
+</section>
+<div class="range-strip"><div class="container"><div class="range-item"><strong>5 profile series</strong><span>Casement & sliding systems</span></div><div class="range-item"><strong>SRI STAR Profiles</strong><span>Manufactured by Hebei Shengda</span></div><div class="range-item"><strong>Kalpana Traders</strong><span>Authorised Southern Region distributor</span></div></div></div>
+<section class="section-space">
+  <div class="container"><div class="section-title-wide"><div><p class="eyebrow">OUR PRODUCT RANGE</p><h2>A profile for every detail.</h2><p class="mb-0">Explore five systems, from the main frame and sash to the beads and complementary profiles that complete the assembly.</p></div><a href="{{ "products/" | relURL }}">View all profiles <span aria-hidden="true">↗</span></a></div>{{ partial "catalog/series-grid.html" . }}</div>
+</section>
+<section class="section-space bg-paper">
+  <div class="container"><div class="section-title text-center mx-auto"><p class="eyebrow">WHY SRI STAR</p><h2>{{ $landing.benefits.title }}</h2><p>{{ $landing.benefits.description }}</p></div>
+    <div class="benefits-grid">{{ range $landing.benefits.items }}<div class="benefit">{{ partial "catalog/image.html" (dict "src" (printf "sri-star-catalog/benefits/%s" .image) "width" 100 "alt" "") }}<h3>{{ .title }}</h3></div>{{ end }}</div>
+    <p class="text-center mb-0"><a class="section-link" href="{{ "quality/" | relURL }}">Explore quality & performance <span aria-hidden="true">↗</span></a></p>
+  </div>
+</section>
+<section class="section-space"><div class="container"><div class="row align-items-center g-4 g-lg-5">
+  <div class="col-lg-6"><figure class="mb-0">{{ partial "catalog/image.html" (dict "src" $landing.manufacturer.image "alt" $landing.manufacturer.image_alt "width" 850 "class" "manufacturer-image") }}<figcaption class="source-caption">Hebei Shengda Company · Baoding, Hebei, China</figcaption></figure></div>
+  <div class="col-lg-6 manufacturer-copy"><p class="eyebrow">{{ $landing.manufacturer.eyebrow }}</p><h2>{{ $landing.manufacturer.title }}</h2><p>{{ $landing.manufacturer.description }}</p><div class="manufacturer-facts"><div><strong>Since 1999</strong><span>Hebei Shengda Company</span></div><div><strong>Coimbatore</strong><span>Your distributor connection</span></div></div><a class="section-link" href="{{ "about/" | relURL }}">Meet the companies behind the profiles <span aria-hidden="true">↗</span></a></div>
+</div></div></section>
+{{ partial "catalog/cta.html" . }}
+{{ end }}

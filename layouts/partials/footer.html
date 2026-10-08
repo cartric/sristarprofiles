@@ -1,0 +1,35 @@
+{{ $company := partialCached "catalog/company.html" . }}
+{{ $pdf := partialCached "catalog/pdf.html" . }}
+<footer class="site-footer">
+  <div class="container">
+    <div class="row g-4 g-lg-5">
+      <div class="col-lg-4">
+        <a href="{{ "" | relURL }}" class="footer-brand">{{ partial "catalog/image.html" (dict "src" "sri-star-catalog/brand/sri-star-profiles-horizontal.png" "width" 480 "alt" "SRI STAR Profiles") }}</a>
+        <h2 class="h5 mt-4">Kalpana Traders</h2>
+        <p>Authorised distributor for the Southern Region.<br>uPVC profiles for window and door fabrication.</p>
+        <p class="footer-tagline">Stronger spaces. Brighter tomorrow.</p>
+      </div>
+      <div class="col-6 col-lg-2">
+        <h2 class="footer-heading">Profile systems</h2>
+        <ul class="footer-links">{{ range hugo.Data.catalog.series }}<li><a href="{{ printf "products/%s/" .id | relURL }}">{{ .title }}</a></li>{{ end }}</ul>
+      </div>
+      <div class="col-6 col-lg-2">
+        <h2 class="footer-heading">Explore</h2>
+        <ul class="footer-links">
+          <li><a href="{{ "about/" | relURL }}">About us</a></li>
+          <li><a href="{{ "quality/" | relURL }}">Quality & performance</a></li>
+          <li><a href="{{ "downloads/" | relURL }}">Downloads</a></li>
+          <li><a href="{{ "services/" | relURL }}">Product enquiries</a></li>
+          <li><a href="{{ $pdf.RelPermalink }}" download>Product catalogue ↓</a></li>
+        </ul>
+      </div>
+      <div class="col-lg-4">
+        <h2 class="footer-heading">Get in touch</h2>
+        <address>{{ range $company.distributor.address_lines }}{{ . }}<br>{{ end }}</address>
+        <p class="mb-1"><a href="tel:+919865599555">+91 98655 99555</a> · <a href="tel:+919944541604">+91 99445 41604</a></p>
+        <a class="email-link" href="mailto:{{ $company.distributor.email_as_printed }}">{{ $company.distributor.email_as_printed }}</a>
+      </div>
+    </div>
+    <div class="footer-bottom"><span>© {{ now.Year }} Kalpana Traders. All rights reserved.</span><span>Coimbatore, Tamil Nadu · India</span></div>
+  </div>
+</footer>

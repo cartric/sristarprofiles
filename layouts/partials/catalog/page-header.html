@@ -1,0 +1,8 @@
+<section class="page-heading">
+  <div class="container">
+    <nav class="page-breadcrumb" aria-label="Breadcrumb"><a href="{{ "" | relURL }}">Home</a><span aria-hidden="true">/</span>{{ if .Params.series }}<a href="{{ "products/" | relURL }}">Products</a><span aria-hidden="true">/</span>{{ end }}<span>{{ .Title }}</span></nav>
+    <p class="eyebrow">{{ .Params.eyebrow | default "SRI STAR PROFILES" }}</p>
+    <h1>{{ .Title }}</h1>
+    <p class="page-intro">{{ .Description }}</p>
+  </div>
+</section>

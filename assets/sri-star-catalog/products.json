@@ -1,0 +1,3478 @@
+[
+  {
+    "id": "p03-01-sphd60-11",
+    "series_group": "60-casement",
+    "source_page": 3,
+    "source_serial": 1,
+    "product_code": "SPHD60-11",
+    "name": "60 Casement Frame",
+    "name_as_printed": "60 Casement Frame",
+    "series_as_printed": "Casement",
+    "thickness_mm": 2.0,
+    "weight_kg_per_m": 1.025,
+    "length_m": 5.8,
+    "length_weight_as_printed": "5.9450",
+    "pieces_per_bag": 6,
+    "source_fields": {
+      "S.No.": "1",
+      "Product Description": "60 Casement Frame",
+      "Product Code": "SPHD60-11",
+      "Series": "Casement",
+      "Thickness": "2.0 mm",
+      "Weight (Kgs/Mtr)": "1.0250",
+      "Length/Mtr": "5.800",
+      "Length Weight": "5.9450",
+      "Pcs/Bag": "6"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/60-casement/p03-01-sphd60-11-diagram.png",
+        "width": 568,
+        "height": 465,
+        "source_page": 3,
+        "bbox_pdf_points": [
+          69.64,
+          179.56,
+          258.56,
+          334.06
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/60-casement/p03-01-sphd60-11-card.png",
+        "width": 688,
+        "height": 750,
+        "source_page": 3,
+        "bbox_pdf_points": [
+          55.94,
+          86.78,
+          284.98,
+          336.46
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      31
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p03-02-sphd60-21",
+    "series_group": "60-casement",
+    "source_page": 3,
+    "source_serial": 2,
+    "product_code": "SPHD60-21",
+    "name": "60 Casement Outward Sash",
+    "name_as_printed": "60 Casement Outward Sash",
+    "series_as_printed": "CW",
+    "thickness_mm": 2.5,
+    "weight_kg_per_m": 1.433,
+    "length_m": 5.8,
+    "length_weight_as_printed": "8.3114",
+    "pieces_per_bag": 6,
+    "source_fields": {
+      "S.No.": "2",
+      "Product Description": "60 Casement Outward Sash",
+      "Product Code": "SPHD60-21",
+      "Series": "CW",
+      "Thickness": "2.5",
+      "Weight (Kgs/Mtr)": "1.4330",
+      "Length/Mtr": "5.800",
+      "Length Weight": "8.3114",
+      "Pcs/Bag": "6"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/60-casement/p03-02-sphd60-21-diagram.png",
+        "width": 525,
+        "height": 451,
+        "source_page": 3,
+        "bbox_pdf_points": [
+          328.24,
+          182.8,
+          503.0,
+          332.84
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/60-casement/p03-02-sphd60-21-card.png",
+        "width": 660,
+        "height": 750,
+        "source_page": 3,
+        "bbox_pdf_points": [
+          307.58,
+          86.78,
+          527.14,
+          336.46
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      32,
+      34
+    ],
+    "review_notes": [
+      "Thickness unit is omitted in source; mm inferred from other rows.",
+      "Diagram assembled from 2 placed images; prefer rendered diagram over raw originals.",
+      "Code appears in multiple catalog entries; retain page/serial ID until supplier review."
+    ]
+  },
+  {
+    "id": "p03-03-sphd60-31",
+    "series_group": "60-casement",
+    "source_page": 3,
+    "source_serial": 3,
+    "product_code": "SPHD60-31",
+    "name": "60 Casement Mullion",
+    "name_as_printed": "60 Casement Mullian",
+    "series_as_printed": "CW",
+    "thickness_mm": 2.0,
+    "weight_kg_per_m": 1.16,
+    "length_m": 5.8,
+    "length_weight_as_printed": "6.7280",
+    "pieces_per_bag": 6,
+    "source_fields": {
+      "S.No.": "3",
+      "Product Description": "60 Casement Mullian",
+      "Product Code": "SPHD60-31",
+      "Series": "CW",
+      "Thickness": "2.0 mm",
+      "Weight (Kgs/Mtr)": "1.1600",
+      "Length/Mtr": "5.800",
+      "Length Weight": "6.7280",
+      "Pcs/Bag": "6"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/60-casement/p03-03-sphd60-31-diagram.png",
+        "width": 534,
+        "height": 450,
+        "source_page": 3,
+        "bbox_pdf_points": [
+          568.84,
+          178.36,
+          746.6,
+          328.16
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/60-casement/p03-03-sphd60-31-card.png",
+        "width": 657,
+        "height": 750,
+        "source_page": 3,
+        "bbox_pdf_points": [
+          549.74,
+          86.78,
+          768.46,
+          336.46
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      33
+    ],
+    "review_notes": [
+      "Display spelling normalized; original spelling retained in name_as_printed."
+    ]
+  },
+  {
+    "id": "p03-04-sphd60-10",
+    "series_group": "60-casement",
+    "source_page": 3,
+    "source_serial": 4,
+    "product_code": "SPHD60-10",
+    "name": "60 Casement Frame",
+    "name_as_printed": "60 Casement Frame",
+    "series_as_printed": "CW",
+    "thickness_mm": 2.5,
+    "weight_kg_per_m": 1.119,
+    "length_m": 5.8,
+    "length_weight_as_printed": "6.4902",
+    "pieces_per_bag": 6,
+    "source_fields": {
+      "S.No.": "4",
+      "Product Description": "60 Casement Frame",
+      "Product Code": "SPHD60-10",
+      "Series": "CW",
+      "Thickness": "2.5 mm",
+      "Weight (Kgs/Mtr)": "1.1190",
+      "Length/Mtr": "5.800",
+      "Length Weight": "6.4902",
+      "Pcs/Bag": "6"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/60-casement/p03-04-sphd60-10-diagram.png",
+        "width": 567,
+        "height": 467,
+        "source_page": 3,
+        "bbox_pdf_points": [
+          73.72,
+          431.2,
+          262.64,
+          586.52
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/60-casement/p03-04-sphd60-10-card.png",
+        "width": 688,
+        "height": 742,
+        "source_page": 3,
+        "bbox_pdf_points": [
+          55.94,
+          343.7,
+          284.98,
+          590.86
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      31
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p03-05-sphd60-21",
+    "series_group": "60-casement",
+    "source_page": 3,
+    "source_serial": 5,
+    "product_code": "SPHD60-21",
+    "name": "60 Casement Outward Sash",
+    "name_as_printed": "60 Casement Outward Sash",
+    "series_as_printed": "CW",
+    "thickness_mm": 2.5,
+    "weight_kg_per_m": 1.433,
+    "length_m": 5.8,
+    "length_weight_as_printed": "8.3114",
+    "pieces_per_bag": 6,
+    "source_fields": {
+      "S.No.": "5",
+      "Product Description": "60 Casement Outward Sash",
+      "Product Code": "SPHD60-21",
+      "Series": "CW",
+      "Thickness": "2.5",
+      "Weight (Kgs/Mtr)": "1.4330",
+      "Length/Mtr": "5.800",
+      "Length Weight": "8.3114",
+      "Pcs/Bag": "6"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/60-casement/p03-05-sphd60-21-diagram.png",
+        "width": 537,
+        "height": 451,
+        "source_page": 3,
+        "bbox_pdf_points": [
+          328.24,
+          436.84,
+          506.72,
+          586.88
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/60-casement/p03-05-sphd60-21-card.png",
+        "width": 660,
+        "height": 742,
+        "source_page": 3,
+        "bbox_pdf_points": [
+          307.58,
+          343.7,
+          527.14,
+          590.86
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      32,
+      34
+    ],
+    "review_notes": [
+      "Thickness unit is omitted in source; mm inferred from other rows.",
+      "Diagram assembled from 3 placed images; prefer rendered diagram over raw originals.",
+      "Code appears in multiple catalog entries; retain page/serial ID until supplier review."
+    ]
+  },
+  {
+    "id": "p03-06-sphd60-30",
+    "series_group": "60-casement",
+    "source_page": 3,
+    "source_serial": 6,
+    "product_code": "SPHD60-30",
+    "name": "60 Casement Mullion",
+    "name_as_printed": "60 Casement Mullian",
+    "series_as_printed": "CW",
+    "thickness_mm": 2.5,
+    "weight_kg_per_m": 1.248,
+    "length_m": 5.8,
+    "length_weight_as_printed": "7.2384",
+    "pieces_per_bag": 6,
+    "source_fields": {
+      "S.No.": "6",
+      "Product Description": "60 Casement Mullian",
+      "Product Code": "SPHD60-30",
+      "Series": "CW",
+      "Thickness": "2.5 mm",
+      "Weight (Kgs/Mtr)": "1.2480",
+      "Length/Mtr": "5.800",
+      "Length Weight": "7.2384",
+      "Pcs/Bag": "6"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/60-casement/p03-06-sphd60-30-diagram.png",
+        "width": 534,
+        "height": 450,
+        "source_page": 3,
+        "bbox_pdf_points": [
+          570.04,
+          435.64,
+          747.8,
+          585.32
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/60-casement/p03-06-sphd60-30-card.png",
+        "width": 657,
+        "height": 742,
+        "source_page": 3,
+        "bbox_pdf_points": [
+          549.74,
+          343.7,
+          768.46,
+          590.86
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      33
+    ],
+    "review_notes": [
+      "Display spelling normalized; original spelling retained in name_as_printed."
+    ]
+  },
+  {
+    "id": "p04-01-sthd62-10",
+    "series_group": "62-sliding",
+    "source_page": 4,
+    "source_serial": 1,
+    "product_code": "STHD62-10",
+    "name": "62 Sliding Frame H52",
+    "name_as_printed": "62 Sliding Frame H52",
+    "series_as_printed": "62 SL",
+    "thickness_mm": 2.5,
+    "weight_kg_per_m": 1.194,
+    "length_m": 5.8,
+    "length_weight_as_printed": "6.9252",
+    "pieces_per_bag": 4,
+    "source_fields": {
+      "S.No.": "1",
+      "Product Description": "62 Sliding Frame H52",
+      "Product Code": "STHD62-10",
+      "Series": "62 SL",
+      "Thickness": "2.5 mm",
+      "Weight (Kgs/Mtr)": "1.1940",
+      "Length/Mtr": "5.800",
+      "Length Weight": "6.9252",
+      "Pcs/Bag": "4"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/62-sliding/p04-01-sthd62-10-diagram.png",
+        "width": 477,
+        "height": 449,
+        "source_page": 4,
+        "bbox_pdf_points": [
+          80.8,
+          187.12,
+          239.36,
+          336.44
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/62-sliding/p04-01-sthd62-10-card.png",
+        "width": 688,
+        "height": 750,
+        "source_page": 4,
+        "bbox_pdf_points": [
+          55.94,
+          96.38,
+          284.98,
+          346.06
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      56
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p04-02-sthd88-20",
+    "series_group": "62-sliding",
+    "source_page": 4,
+    "source_serial": 2,
+    "product_code": "STHD88-20",
+    "name": "62 Sliding Sash H58",
+    "name_as_printed": "62 Sliding Sash H58",
+    "series_as_printed": "62 SL",
+    "thickness_mm": 2.5,
+    "weight_kg_per_m": 0.999,
+    "length_m": 5.8,
+    "length_weight_as_printed": "5.7942",
+    "pieces_per_bag": 8,
+    "source_fields": {
+      "S.No.": "2",
+      "Product Description": "62 Sliding Sash H58",
+      "Product Code": "STHD88-20",
+      "Series": "62 SL",
+      "Thickness": "2.5 mm",
+      "Weight (Kgs/Mtr)": "0.9990",
+      "Length/Mtr": "5.800",
+      "Length Weight": "5.7942",
+      "Pcs/Bag": "8"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/62-sliding/p04-02-sthd88-20-diagram.png",
+        "width": 452,
+        "height": 455,
+        "source_page": 4,
+        "bbox_pdf_points": [
+          351.4,
+          190.36,
+          501.8,
+          341.72
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/62-sliding/p04-02-sthd88-20-card.png",
+        "width": 660,
+        "height": 750,
+        "source_page": 4,
+        "bbox_pdf_points": [
+          307.58,
+          96.38,
+          527.14,
+          346.06
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      57
+    ],
+    "review_notes": [
+      "Code appears in multiple catalog entries; retain page/serial ID until supplier review."
+    ]
+  },
+  {
+    "id": "p04-03-sthd62-22",
+    "series_group": "62-sliding",
+    "source_page": 4,
+    "source_serial": 3,
+    "product_code": "STHD62-22",
+    "name": "62 Sliding Sash H92",
+    "name_as_printed": "62 Sliding Sash H92",
+    "series_as_printed": "62 SL",
+    "thickness_mm": 2.5,
+    "weight_kg_per_m": 1.412,
+    "length_m": 5.8,
+    "length_weight_as_printed": "8.1896",
+    "pieces_per_bag": 8,
+    "source_fields": {
+      "S.No.": "3",
+      "Product Description": "62 Sliding Sash H92",
+      "Product Code": "STHD62-22",
+      "Series": "62 SL",
+      "Thickness": "2.5 mm",
+      "Weight (Kgs/Mtr)": "1.4120",
+      "Length/Mtr": "5.800",
+      "Length Weight": "8.1896",
+      "Pcs/Bag": "8"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/62-sliding/p04-03-sthd62-22-diagram.png",
+        "width": 498,
+        "height": 429,
+        "source_page": 4,
+        "bbox_pdf_points": [
+          575.32,
+          193.12,
+          740.84,
+          335.72
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/62-sliding/p04-03-sthd62-22-card.png",
+        "width": 657,
+        "height": 750,
+        "source_page": 4,
+        "bbox_pdf_points": [
+          549.74,
+          96.38,
+          768.46,
+          346.06
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      58
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p04-04-sthd88-46",
+    "series_group": "62-sliding",
+    "source_page": 4,
+    "source_serial": 4,
+    "product_code": "STHD88-46",
+    "name": "24 Glass Beading",
+    "name_as_printed": "24 Glass Beading",
+    "series_as_printed": "62 SL",
+    "thickness_mm": null,
+    "weight_kg_per_m": 0.236,
+    "length_m": 5.8,
+    "length_weight_as_printed": "1.3688",
+    "pieces_per_bag": 30,
+    "source_fields": {
+      "S.No.": "4",
+      "Product Description": "24 Glass Beading",
+      "Product Code": "STHD88-46",
+      "Series": "62 SL",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "0.2360",
+      "Length/Mtr": "5.800",
+      "Length Weight": "1.3688",
+      "Pcs/Bag": "30"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/62-sliding/p04-04-sthd88-46-diagram.png",
+        "width": 536,
+        "height": 426,
+        "source_page": 4,
+        "bbox_pdf_points": [
+          65.92,
+          452.32,
+          244.16,
+          593.96
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/62-sliding/p04-04-sthd88-46-card.png",
+        "width": 688,
+        "height": 743,
+        "source_page": 4,
+        "bbox_pdf_points": [
+          55.94,
+          353.3,
+          284.98,
+          600.46
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      59,
+      62
+    ],
+    "review_notes": [
+      "Diagram assembled from 2 placed images; prefer rendered diagram over raw originals.",
+      "Code appears in multiple catalog entries; retain page/serial ID until supplier review."
+    ]
+  },
+  {
+    "id": "p04-05-sthd80-40",
+    "series_group": "62-sliding",
+    "source_page": 4,
+    "source_serial": 5,
+    "product_code": "STHD80-40",
+    "name": "7.5 Glass Beading",
+    "name_as_printed": "7.5 Glass Beading",
+    "series_as_printed": "62 SL",
+    "thickness_mm": null,
+    "weight_kg_per_m": 0.154,
+    "length_m": 5.8,
+    "length_weight_as_printed": "0.8932",
+    "pieces_per_bag": 50,
+    "source_fields": {
+      "S.No.": "5",
+      "Product Description": "7.5 Glass Beading",
+      "Product Code": "STHD80-40",
+      "Series": "62 SL",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "0.1540",
+      "Length/Mtr": "5.800",
+      "Length Weight": "0.8932",
+      "Pcs/Bag": "50"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/62-sliding/p04-05-sthd80-40-diagram.png",
+        "width": 404,
+        "height": 400,
+        "source_page": 4,
+        "bbox_pdf_points": [
+          345.28,
+          455.2,
+          479.6,
+          588.08
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/62-sliding/p04-05-sthd80-40-card.png",
+        "width": 660,
+        "height": 743,
+        "source_page": 4,
+        "bbox_pdf_points": [
+          307.58,
+          353.3,
+          527.14,
+          600.46
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      60
+    ],
+    "review_notes": [
+      "Code appears in multiple catalog entries; retain page/serial ID until supplier review."
+    ]
+  },
+  {
+    "id": "p04-06-sthd88-47",
+    "series_group": "62-sliding",
+    "source_page": 4,
+    "source_serial": 6,
+    "product_code": "STHD88-47",
+    "name": "9 Glass Beading",
+    "name_as_printed": "9 Glass Beading",
+    "series_as_printed": "62 SL",
+    "thickness_mm": null,
+    "weight_kg_per_m": 0.154,
+    "length_m": 5.8,
+    "length_weight_as_printed": "0.8932",
+    "pieces_per_bag": 50,
+    "source_fields": {
+      "S.No.": "6",
+      "Product Description": "9 Glass Beading",
+      "Product Code": "STHD88-47",
+      "Series": "62 SL",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "0.1540",
+      "Length/Mtr": "5.800",
+      "Length Weight": "0.8932",
+      "Pcs/Bag": "50"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/62-sliding/p04-06-sthd88-47-diagram.png",
+        "width": 443,
+        "height": 395,
+        "source_page": 4,
+        "bbox_pdf_points": [
+          584.92,
+          456.4,
+          732.2,
+          587.72
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/62-sliding/p04-06-sthd88-47-card.png",
+        "width": 657,
+        "height": 743,
+        "source_page": 4,
+        "bbox_pdf_points": [
+          549.74,
+          353.3,
+          768.46,
+          600.46
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      61
+    ],
+    "review_notes": [
+      "Code appears in multiple catalog entries; retain page/serial ID until supplier review."
+    ]
+  },
+  {
+    "id": "p05-01-sthd80-10",
+    "series_group": "80-sliding",
+    "source_page": 5,
+    "source_serial": 1,
+    "product_code": "STHD80-10",
+    "name": "80 Sliding Frame H52",
+    "name_as_printed": "80 Sliding Frame H52",
+    "series_as_printed": "80 SL",
+    "thickness_mm": 2.2,
+    "weight_kg_per_m": 1.3,
+    "length_m": 5.8,
+    "length_weight_as_printed": "7.5400",
+    "pieces_per_bag": 4,
+    "source_fields": {
+      "S.No.": "1",
+      "Product Description": "80 Sliding Frame H52",
+      "Product Code": "STHD80-10",
+      "Series": "80 SL",
+      "Thickness": "2.2 mm",
+      "Weight (Kgs/Mtr)": "1.3000",
+      "Length/Mtr": "5.800",
+      "Length Weight": "7.5400",
+      "Pcs/Bag": "4"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/80-sliding/p05-01-sthd80-10-diagram.png",
+        "width": 602,
+        "height": 420,
+        "source_page": 5,
+        "bbox_pdf_points": [
+          60.04,
+          188.68,
+          260.48,
+          328.52
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/80-sliding/p05-01-sthd80-10-card.png",
+        "width": 688,
+        "height": 750,
+        "source_page": 5,
+        "bbox_pdf_points": [
+          55.94,
+          86.78,
+          284.98,
+          336.46
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      84
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p05-02-sthd80-21",
+    "series_group": "80-sliding",
+    "source_page": 5,
+    "source_serial": 2,
+    "product_code": "STHD80-21",
+    "name": "80 Sliding Sash H55",
+    "name_as_printed": "80 Sliding Sash H55",
+    "series_as_printed": "80 SL",
+    "thickness_mm": 2.2,
+    "weight_kg_per_m": 0.848,
+    "length_m": 5.8,
+    "length_weight_as_printed": "4.9184",
+    "pieces_per_bag": 8,
+    "source_fields": {
+      "S.No.": "2",
+      "Product Description": "80 Sliding Sash H55",
+      "Product Code": "STHD80-21",
+      "Series": "80 SL",
+      "Thickness": "2.2 mm",
+      "Weight (Kgs/Mtr)": "0.8480",
+      "Length/Mtr": "5.800",
+      "Length Weight": "4.9184",
+      "Pcs/Bag": "8"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/80-sliding/p05-02-sthd80-21-diagram.png",
+        "width": 467,
+        "height": 430,
+        "source_page": 5,
+        "bbox_pdf_points": [
+          342.76,
+          183.16,
+          498.2,
+          326.12
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/80-sliding/p05-02-sthd80-21-card.png",
+        "width": 660,
+        "height": 750,
+        "source_page": 5,
+        "bbox_pdf_points": [
+          307.58,
+          86.78,
+          527.14,
+          336.46
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      85
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p05-03-sthd80-108",
+    "series_group": "80-sliding",
+    "source_page": 5,
+    "source_serial": 3,
+    "product_code": "STHD80-108",
+    "name": "80 Sliding Frame H52",
+    "name_as_printed": "80 Sliding Frame H52",
+    "series_as_printed": "80 SL",
+    "thickness_mm": 2.0,
+    "weight_kg_per_m": 1.053,
+    "length_m": 5.8,
+    "length_weight_as_printed": "6.1074",
+    "pieces_per_bag": 4,
+    "source_fields": {
+      "S.No.": "3",
+      "Product Description": "80 Sliding Frame H52",
+      "Product Code": "STHD80-108",
+      "Series": "80 SL",
+      "Thickness": "2.0 mm",
+      "Weight (Kgs/Mtr)": "1.0530",
+      "Length/Mtr": "5.800",
+      "Length Weight": "6.1074",
+      "Pcs/Bag": "4"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/80-sliding/p05-03-sthd80-108-diagram.png",
+        "width": 563,
+        "height": 430,
+        "source_page": 5,
+        "bbox_pdf_points": [
+          558.4,
+          190.72,
+          746.0,
+          333.68
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/80-sliding/p05-03-sthd80-108-card.png",
+        "width": 657,
+        "height": 750,
+        "source_page": 5,
+        "bbox_pdf_points": [
+          549.74,
+          86.78,
+          768.46,
+          336.46
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      86
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p05-04-sthd80-201",
+    "series_group": "80-sliding",
+    "source_page": 5,
+    "source_serial": 4,
+    "product_code": "STHD80-201",
+    "name": "80 Sliding Sash H58",
+    "name_as_printed": "80 Sliding Sash H58",
+    "series_as_printed": "80 SL",
+    "thickness_mm": 2.0,
+    "weight_kg_per_m": 0.667,
+    "length_m": 5.8,
+    "length_weight_as_printed": "3.8686",
+    "pieces_per_bag": 6,
+    "source_fields": {
+      "S.No.": "4",
+      "Product Description": "80 Sliding Sash H58",
+      "Product Code": "STHD80-201",
+      "Series": "80 SL",
+      "Thickness": "2.0 mm",
+      "Weight (Kgs/Mtr)": "0.6670",
+      "Length/Mtr": "5.800",
+      "Length Weight": "3.8686",
+      "Pcs/Bag": "6"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/80-sliding/p05-04-sthd80-201-diagram.png",
+        "width": 546,
+        "height": 437,
+        "source_page": 5,
+        "bbox_pdf_points": [
+          70.36,
+          436.12,
+          252.32,
+          581.48
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/80-sliding/p05-04-sthd80-201-card.png",
+        "width": 688,
+        "height": 740,
+        "source_page": 5,
+        "bbox_pdf_points": [
+          55.94,
+          343.7,
+          284.98,
+          590.14
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      87
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p05-05-sthd88-40",
+    "series_group": "80-sliding",
+    "source_page": 5,
+    "source_serial": 5,
+    "product_code": "STHD88-40",
+    "name": "6 Glass Beading",
+    "name_as_printed": "6 Glass Beading",
+    "series_as_printed": "80 SL",
+    "thickness_mm": null,
+    "weight_kg_per_m": 0.149,
+    "length_m": 5.8,
+    "length_weight_as_printed": "0.8642",
+    "pieces_per_bag": 50,
+    "source_fields": {
+      "S.No.": "5",
+      "Product Description": "6 Glass Beading",
+      "Product Code": "STHD88-40",
+      "Series": "80 SL",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "0.1490",
+      "Length/Mtr": "5.800",
+      "Length Weight": "0.8642",
+      "Pcs/Bag": "50"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/80-sliding/p05-05-sthd88-40-diagram.png",
+        "width": 335,
+        "height": 387,
+        "source_page": 5,
+        "bbox_pdf_points": [
+          347.2,
+          438.4,
+          458.36,
+          567.08
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/80-sliding/p05-05-sthd88-40-card.png",
+        "width": 660,
+        "height": 740,
+        "source_page": 5,
+        "bbox_pdf_points": [
+          307.58,
+          343.7,
+          527.14,
+          590.14
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      89
+    ],
+    "review_notes": [
+      "Code appears in multiple catalog entries; retain page/serial ID until supplier review."
+    ]
+  },
+  {
+    "id": "p05-06-sthd80-40",
+    "series_group": "80-sliding",
+    "source_page": 5,
+    "source_serial": 6,
+    "product_code": "STHD80-40",
+    "name": "7.5 Glass Beading",
+    "name_as_printed": "7.5 Glass Beading",
+    "series_as_printed": "80 SL",
+    "thickness_mm": null,
+    "weight_kg_per_m": 0.154,
+    "length_m": 5.8,
+    "length_weight_as_printed": "0.8932",
+    "pieces_per_bag": 50,
+    "source_fields": {
+      "S.No.": "6",
+      "Product Description": "7.5 Glass Beading",
+      "Product Code": "STHD80-40",
+      "Series": "80 SL",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "0.1540",
+      "Length/Mtr": "5.800",
+      "Length Weight": "0.8932",
+      "Pcs/Bag": "50"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/80-sliding/p05-06-sthd80-40-diagram.png",
+        "width": 404,
+        "height": 400,
+        "source_page": 5,
+        "bbox_pdf_points": [
+          593.2,
+          439.24,
+          727.64,
+          572.24
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/80-sliding/p05-06-sthd80-40-card.png",
+        "width": 657,
+        "height": 740,
+        "source_page": 5,
+        "bbox_pdf_points": [
+          549.74,
+          343.7,
+          768.46,
+          590.14
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      88
+    ],
+    "review_notes": [
+      "Code appears in multiple catalog entries; retain page/serial ID until supplier review."
+    ]
+  },
+  {
+    "id": "p06-07-sthd80-41",
+    "series_group": "80-sliding",
+    "source_page": 6,
+    "source_serial": 7,
+    "product_code": "STHD80-41",
+    "name": "19.5 Glass Beading",
+    "name_as_printed": "19.5 Glass Beading",
+    "series_as_printed": "80 SL",
+    "thickness_mm": null,
+    "weight_kg_per_m": 0.21,
+    "length_m": 5.8,
+    "length_weight_as_printed": "1.2180",
+    "pieces_per_bag": 30,
+    "source_fields": {
+      "S.No.": "7",
+      "Product Description": "19.5 Glass Beading",
+      "Product Code": "STHD80-41",
+      "Series": "80 SL",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "0.2100",
+      "Length/Mtr": "5.800",
+      "Length Weight": "1.2180",
+      "Pcs/Bag": "30"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/80-sliding/p06-07-sthd80-41-diagram.png",
+        "width": 511,
+        "height": 413,
+        "source_page": 6,
+        "bbox_pdf_points": [
+          79.48,
+          183.88,
+          249.44,
+          321.2
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/80-sliding/p06-07-sthd80-41-card.png",
+        "width": 699,
+        "height": 761,
+        "source_page": 6,
+        "bbox_pdf_points": [
+          55.94,
+          78.62,
+          288.46,
+          331.78
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      111
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p06-08-sthd80-51",
+    "series_group": "80-sliding",
+    "source_page": 6,
+    "source_serial": 8,
+    "product_code": "STHD80-51",
+    "name": "80 Sliding Sash Cover",
+    "name_as_printed": "80 Sliding Sash Cover",
+    "series_as_printed": "80 SL",
+    "thickness_mm": null,
+    "weight_kg_per_m": 0.188,
+    "length_m": 5.8,
+    "length_weight_as_printed": "1.0904",
+    "pieces_per_bag": 30,
+    "source_fields": {
+      "S.No.": "8",
+      "Product Description": "80 Sliding Sash Cover",
+      "Product Code": "STHD80-51",
+      "Series": "80 SL",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "0.1880",
+      "Length/Mtr": "5.800",
+      "Length Weight": "1.0904",
+      "Pcs/Bag": "30"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/80-sliding/p06-08-sthd80-51-diagram.png",
+        "width": 551,
+        "height": 382,
+        "source_page": 6,
+        "bbox_pdf_points": [
+          334.12,
+          190.36,
+          517.64,
+          317.48
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/80-sliding/p06-08-sthd80-51-card.png",
+        "width": 669,
+        "height": 761,
+        "source_page": 6,
+        "bbox_pdf_points": [
+          311.42,
+          78.62,
+          534.22,
+          331.78
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      112
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p06-09-sthd80-74",
+    "series_group": "80-sliding",
+    "source_page": 6,
+    "source_serial": 9,
+    "product_code": "STHD80-74",
+    "name": "90° Bay  Corner",
+    "name_as_printed": "90° Bay  Corner",
+    "series_as_printed": "80 SL",
+    "thickness_mm": null,
+    "weight_kg_per_m": 0.989,
+    "length_m": 5.8,
+    "length_weight_as_printed": "5.7362",
+    "pieces_per_bag": 4,
+    "source_fields": {
+      "S.No.": "9",
+      "Product Description": "90° Bay  Corner",
+      "Product Code": "STHD80-74",
+      "Series": "80 SL",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "0.9890",
+      "Length/Mtr": "5.800",
+      "Length Weight": "5.7362",
+      "Pcs/Bag": "4"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/80-sliding/p06-09-sthd80-74-diagram.png",
+        "width": 485,
+        "height": 436,
+        "source_page": 6,
+        "bbox_pdf_points": [
+          588.64,
+          179.8,
+          749.84,
+          324.8
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/80-sliding/p06-09-sthd80-74-card.png",
+        "width": 667,
+        "height": 761,
+        "source_page": 6,
+        "bbox_pdf_points": [
+          557.18,
+          78.62,
+          779.26,
+          331.78
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      113
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p06-10-sthd80-80",
+    "series_group": "80-sliding",
+    "source_page": 6,
+    "source_serial": 10,
+    "product_code": "STHD80-80",
+    "name": "80 Tube Adaptor",
+    "name_as_printed": "80 Tube Adaptor",
+    "series_as_printed": "80 SL",
+    "thickness_mm": null,
+    "weight_kg_per_m": 1.0,
+    "length_m": 5.8,
+    "length_weight_as_printed": "5.8000",
+    "pieces_per_bag": 4,
+    "source_fields": {
+      "S.No.": "10",
+      "Product Description": "80 Tube Adaptor",
+      "Product Code": "STHD80-80",
+      "Series": "80 SL",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "1.0000",
+      "Length/Mtr": "5.800",
+      "Length Weight": "5.8000",
+      "Pcs/Bag": "4"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/80-sliding/p06-10-sthd80-80-diagram.png",
+        "width": 560,
+        "height": 376,
+        "source_page": 6,
+        "bbox_pdf_points": [
+          75.28,
+          446.8,
+          261.44,
+          572.0
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/80-sliding/p06-10-sthd80-80-card.png",
+        "width": 699,
+        "height": 751,
+        "source_page": 6,
+        "bbox_pdf_points": [
+          55.94,
+          339.14,
+          288.46,
+          589.06
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      114
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p06-11-sthd80-50",
+    "series_group": "80-sliding",
+    "source_page": 6,
+    "source_serial": 11,
+    "product_code": "STHD80-50",
+    "name": "80 Screen Sash",
+    "name_as_printed": "80 Screen Sash",
+    "series_as_printed": "80 SL",
+    "thickness_mm": null,
+    "weight_kg_per_m": 0.439,
+    "length_m": 5.8,
+    "length_weight_as_printed": "2.5462",
+    "pieces_per_bag": 16,
+    "source_fields": {
+      "S.No.": "11",
+      "Product Description": "80 Screen Sash",
+      "Product Code": "STHD80-50",
+      "Series": "80 SL",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "0.4390",
+      "Length/Mtr": "5.800",
+      "Length Weight": "2.5462",
+      "Pcs/Bag": "16"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/80-sliding/p06-11-sthd80-50-diagram.png",
+        "width": 474,
+        "height": 457,
+        "source_page": 6,
+        "bbox_pdf_points": [
+          340.36,
+          433.48,
+          498.08,
+          585.44
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/80-sliding/p06-11-sthd80-50-card.png",
+        "width": 669,
+        "height": 751,
+        "source_page": 6,
+        "bbox_pdf_points": [
+          311.42,
+          339.14,
+          534.22,
+          589.06
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      115
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p07-01-sthd88-10",
+    "series_group": "88-sliding",
+    "source_page": 7,
+    "source_serial": 1,
+    "product_code": "STHD88-10",
+    "name": "88 Sliding Frame H52",
+    "name_as_printed": "88 Sliding Frame H52",
+    "series_as_printed": "88 SL",
+    "thickness_mm": 2.5,
+    "weight_kg_per_m": 1.498,
+    "length_m": 5.8,
+    "length_weight_as_printed": "8.6884",
+    "pieces_per_bag": 4,
+    "source_fields": {
+      "S.No.": "1",
+      "Product Description": "88 Sliding Frame H52",
+      "Product Code": "STHD88-10",
+      "Series": "88 SL",
+      "Thickness": "2.5 mm",
+      "Weight (Kgs/Mtr)": "1.4980",
+      "Length/Mtr": "5.800",
+      "Length Weight": "8.6884",
+      "Pcs/Bag": "4"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/88-sliding/p07-01-sthd88-10-diagram.png",
+        "width": 521,
+        "height": 392,
+        "source_page": 7,
+        "bbox_pdf_points": [
+          74.92,
+          190.72,
+          248.12,
+          321.08
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/88-sliding/p07-01-sthd88-10-card.png",
+        "width": 688,
+        "height": 750,
+        "source_page": 7,
+        "bbox_pdf_points": [
+          55.94,
+          86.78,
+          284.98,
+          336.46
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      139
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p07-02-sthd88-20",
+    "series_group": "88-sliding",
+    "source_page": 7,
+    "source_serial": 2,
+    "product_code": "STHD88-20",
+    "name": "88 Sliding Sash H58",
+    "name_as_printed": "88 Sliding Sash H58",
+    "series_as_printed": "88 SL",
+    "thickness_mm": 2.5,
+    "weight_kg_per_m": 0.999,
+    "length_m": 5.8,
+    "length_weight_as_printed": "5.7942",
+    "pieces_per_bag": 8,
+    "source_fields": {
+      "S.No.": "2",
+      "Product Description": "88 Sliding Sash H58",
+      "Product Code": "STHD88-20",
+      "Series": "88 SL",
+      "Thickness": "2.5 mm",
+      "Weight (Kgs/Mtr)": "0.9990",
+      "Length/Mtr": "5.800",
+      "Length Weight": "5.7942",
+      "Pcs/Bag": "8"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/88-sliding/p07-02-sthd88-20-diagram.png",
+        "width": 398,
+        "height": 435,
+        "source_page": 7,
+        "bbox_pdf_points": [
+          353.92,
+          182.8,
+          486.2,
+          327.44
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/88-sliding/p07-02-sthd88-20-card.png",
+        "width": 660,
+        "height": 750,
+        "source_page": 7,
+        "bbox_pdf_points": [
+          307.58,
+          86.78,
+          527.14,
+          336.46
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      140
+    ],
+    "review_notes": [
+      "Code appears in multiple catalog entries; retain page/serial ID until supplier review."
+    ]
+  },
+  {
+    "id": "p07-03-sthp88-10",
+    "series_group": "88-sliding",
+    "source_page": 7,
+    "source_serial": 3,
+    "product_code": "STHP88-10",
+    "name": "88 Sliding Frame H52",
+    "name_as_printed": "88 Sliding Frame H52",
+    "series_as_printed": "88 SL",
+    "thickness_mm": 2.0,
+    "weight_kg_per_m": 1.266,
+    "length_m": 5.8,
+    "length_weight_as_printed": "7.3428",
+    "pieces_per_bag": 4,
+    "source_fields": {
+      "S.No.": "3",
+      "Product Description": "88 Sliding Frame H52",
+      "Product Code": "STHP88-10",
+      "Series": "88 SL",
+      "Thickness": "2.0 mm",
+      "Weight (Kgs/Mtr)": "1.2660",
+      "Length/Mtr": "5.800",
+      "Length Weight": "7.3428",
+      "Pcs/Bag": "4"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/88-sliding/p07-03-sthp88-10-diagram.png",
+        "width": 521,
+        "height": 392,
+        "source_page": 7,
+        "bbox_pdf_points": [
+          565.48,
+          183.52,
+          738.68,
+          313.88
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/88-sliding/p07-03-sthp88-10-card.png",
+        "width": 657,
+        "height": 750,
+        "source_page": 7,
+        "bbox_pdf_points": [
+          549.74,
+          86.78,
+          768.46,
+          336.46
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      139
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p07-04-sthp88-20",
+    "series_group": "88-sliding",
+    "source_page": 7,
+    "source_serial": 4,
+    "product_code": "STHP88-20",
+    "name": "88 Sliding Sash H58",
+    "name_as_printed": "88 Sliding Sash H58",
+    "series_as_printed": "88 SL",
+    "thickness_mm": 2.0,
+    "weight_kg_per_m": 0.754,
+    "length_m": 5.8,
+    "length_weight_as_printed": "4.3732",
+    "pieces_per_bag": 8,
+    "source_fields": {
+      "S.No.": "4",
+      "Product Description": "88 Sliding Sash H58",
+      "Product Code": "STHP88-20",
+      "Series": "88 SL",
+      "Thickness": "2.0 mm",
+      "Weight (Kgs/Mtr)": "0.7540",
+      "Length/Mtr": "5.800",
+      "Length Weight": "4.3732",
+      "Pcs/Bag": "8"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/88-sliding/p07-04-sthp88-20-diagram.png",
+        "width": 398,
+        "height": 435,
+        "source_page": 7,
+        "bbox_pdf_points": [
+          89.44,
+          440.8,
+          221.72,
+          585.56
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/88-sliding/p07-04-sthp88-20-card.png",
+        "width": 688,
+        "height": 740,
+        "source_page": 7,
+        "bbox_pdf_points": [
+          55.94,
+          343.7,
+          284.98,
+          590.14
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      140
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p07-05-sthd88-40",
+    "series_group": "88-sliding",
+    "source_page": 7,
+    "source_serial": 5,
+    "product_code": "STHD88-40",
+    "name": "6 Glass Beading",
+    "name_as_printed": "6 Glass Beading",
+    "series_as_printed": "88 SL",
+    "thickness_mm": 1.4,
+    "weight_kg_per_m": 0.149,
+    "length_m": 5.8,
+    "length_weight_as_printed": "0.8642",
+    "pieces_per_bag": 50,
+    "source_fields": {
+      "S.No.": "5",
+      "Product Description": "6 Glass Beading",
+      "Product Code": "STHD88-40",
+      "Series": "88 SL",
+      "Thickness": "1.4 mm",
+      "Weight (Kgs/Mtr)": "0.1490",
+      "Length/Mtr": "5.800",
+      "Length Weight": "0.8642",
+      "Pcs/Bag": "50"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/88-sliding/p07-05-sthd88-40-diagram.png",
+        "width": 334,
+        "height": 387,
+        "source_page": 7,
+        "bbox_pdf_points": [
+          351.4,
+          438.88,
+          462.56,
+          567.44
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/88-sliding/p07-05-sthd88-40-card.png",
+        "width": 660,
+        "height": 740,
+        "source_page": 7,
+        "bbox_pdf_points": [
+          307.58,
+          343.7,
+          527.14,
+          590.14
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      138
+    ],
+    "review_notes": [
+      "Code appears in multiple catalog entries; retain page/serial ID until supplier review."
+    ]
+  },
+  {
+    "id": "p07-06-sthd80-40",
+    "series_group": "88-sliding",
+    "source_page": 7,
+    "source_serial": 6,
+    "product_code": "STHD80-40",
+    "name": "7.5 Glass Beading",
+    "name_as_printed": "7.5 Glass Beading",
+    "series_as_printed": "88 SL",
+    "thickness_mm": 1.4,
+    "weight_kg_per_m": 0.154,
+    "length_m": 5.8,
+    "length_weight_as_printed": "0.8932",
+    "pieces_per_bag": 50,
+    "source_fields": {
+      "S.No.": "6",
+      "Product Description": "7.5 Glass Beading",
+      "Product Code": "STHD80-40",
+      "Series": "88 SL",
+      "Thickness": "1.4 mm",
+      "Weight (Kgs/Mtr)": "0.1540",
+      "Length/Mtr": "5.800",
+      "Length Weight": "0.8932",
+      "Pcs/Bag": "50"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/88-sliding/p07-06-sthd80-40-diagram.png",
+        "width": 404,
+        "height": 400,
+        "source_page": 7,
+        "bbox_pdf_points": [
+          587.44,
+          438.04,
+          721.76,
+          571.04
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/88-sliding/p07-06-sthd80-40-card.png",
+        "width": 657,
+        "height": 740,
+        "source_page": 7,
+        "bbox_pdf_points": [
+          549.74,
+          343.7,
+          768.46,
+          590.14
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      137
+    ],
+    "review_notes": [
+      "Code appears in multiple catalog entries; retain page/serial ID until supplier review."
+    ]
+  },
+  {
+    "id": "p08-07-sthd88-47",
+    "series_group": "88-sliding",
+    "source_page": 8,
+    "source_serial": 7,
+    "product_code": "STHD88-47",
+    "name": "9 Glass Beading",
+    "name_as_printed": "9 Glass Beading",
+    "series_as_printed": "88 SL",
+    "thickness_mm": 1.4,
+    "weight_kg_per_m": 0.154,
+    "length_m": 5.8,
+    "length_weight_as_printed": "0.8932",
+    "pieces_per_bag": 30,
+    "source_fields": {
+      "S.No.": "7",
+      "Product Description": "9 Glass Beading",
+      "Product Code": "STHD88-47",
+      "Series": "88 SL",
+      "Thickness": "1.4 mm",
+      "Weight (Kgs/Mtr)": "0.1540",
+      "Length/Mtr": "5.800",
+      "Length Weight": "0.8932",
+      "Pcs/Bag": "30"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/88-sliding/p08-07-sthd88-47-diagram.png",
+        "width": 449,
+        "height": 401,
+        "source_page": 8,
+        "bbox_pdf_points": [
+          88.36,
+          181.84,
+          237.8,
+          315.2
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/88-sliding/p08-07-sthd88-47-card.png",
+        "width": 699,
+        "height": 761,
+        "source_page": 8,
+        "bbox_pdf_points": [
+          55.94,
+          78.62,
+          288.46,
+          331.78
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      162
+    ],
+    "review_notes": [
+      "Code appears in multiple catalog entries; retain page/serial ID until supplier review."
+    ]
+  },
+  {
+    "id": "p08-08-sthd88-46",
+    "series_group": "88-sliding",
+    "source_page": 8,
+    "source_serial": 8,
+    "product_code": "STHD88-46",
+    "name": "24 Glass Beading",
+    "name_as_printed": "24 Glass Beading",
+    "series_as_printed": "88 SL",
+    "thickness_mm": 1.4,
+    "weight_kg_per_m": 0.236,
+    "length_m": 5.8,
+    "length_weight_as_printed": "1.369",
+    "pieces_per_bag": 30,
+    "source_fields": {
+      "S.No.": "8",
+      "Product Description": "24 Glass Beading",
+      "Product Code": "STHD88-46",
+      "Series": "88 SL",
+      "Thickness": "1.4 mm",
+      "Weight (Kgs/Mtr)": "0.236",
+      "Length/Mtr": "5.8000",
+      "Length Weight": "1.369",
+      "Pcs/Bag": "30"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/88-sliding/p08-08-sthd88-46-diagram.png",
+        "width": 543,
+        "height": 432,
+        "source_page": 8,
+        "bbox_pdf_points": [
+          329.44,
+          178.24,
+          510.32,
+          321.92
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/88-sliding/p08-08-sthd88-46-card.png",
+        "width": 669,
+        "height": 761,
+        "source_page": 8,
+        "bbox_pdf_points": [
+          311.42,
+          78.62,
+          534.22,
+          331.78
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      163
+    ],
+    "review_notes": [
+      "Code appears in multiple catalog entries; retain page/serial ID until supplier review."
+    ]
+  },
+  {
+    "id": "p09-07-sphd60-24",
+    "series_group": "60-casement",
+    "source_page": 9,
+    "source_serial": 7,
+    "product_code": "SPHD60-24",
+    "name": "60 Casement Inward Sash",
+    "name_as_printed": "60 Casement Inward Sash",
+    "series_as_printed": "CW",
+    "thickness_mm": 2.0,
+    "weight_kg_per_m": 1.179,
+    "length_m": 5.8,
+    "length_weight_as_printed": "6.8382",
+    "pieces_per_bag": 6,
+    "source_fields": {
+      "S.No.": "7",
+      "Product Description": "60 Casement Inward Sash",
+      "Product Code": "SPHD60-24",
+      "Series": "CW",
+      "Thickness": "2.0 mm",
+      "Weight (Kgs/Mtr)": "1.1790",
+      "Length/Mtr": "5.800",
+      "Length Weight": "6.8382",
+      "Pcs/Bag": "6"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/60-casement/p09-07-sphd60-24-diagram.png",
+        "width": 544,
+        "height": 461,
+        "source_page": 9,
+        "bbox_pdf_points": [
+          80.8,
+          175.36,
+          261.68,
+          328.88
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/60-casement/p09-07-sphd60-24-card.png",
+        "width": 699,
+        "height": 761,
+        "source_page": 9,
+        "bbox_pdf_points": [
+          55.94,
+          78.62,
+          288.46,
+          331.78
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      185,
+      186
+    ],
+    "review_notes": [
+      "Diagram assembled from 2 placed images; prefer rendered diagram over raw originals."
+    ]
+  },
+  {
+    "id": "p09-08-sphd60-20",
+    "series_group": "60-casement",
+    "source_page": 9,
+    "source_serial": 8,
+    "product_code": "SPHD60-20",
+    "name": "60 Casement Inward Sash",
+    "name_as_printed": "60 Casement Inward Sash",
+    "series_as_printed": "CW",
+    "thickness_mm": 2.5,
+    "weight_kg_per_m": 1.263,
+    "length_m": 5.8,
+    "length_weight_as_printed": "7.3254",
+    "pieces_per_bag": 6,
+    "source_fields": {
+      "S.No.": "8",
+      "Product Description": "60 Casement Inward Sash",
+      "Product Code": "SPHD60-20",
+      "Series": "CW",
+      "Thickness": "2.5 mm",
+      "Weight (Kgs/Mtr)": "1.2630",
+      "Length/Mtr": "5.800",
+      "Length Weight": "7.3254",
+      "Pcs/Bag": "6"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/60-casement/p09-08-sphd60-20-diagram.png",
+        "width": 511,
+        "height": 432,
+        "source_page": 9,
+        "bbox_pdf_points": [
+          335.32,
+          174.88,
+          505.16,
+          318.44
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/60-casement/p09-08-sphd60-20-card.png",
+        "width": 669,
+        "height": 761,
+        "source_page": 9,
+        "bbox_pdf_points": [
+          311.42,
+          78.62,
+          534.22,
+          331.78
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      186
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p09-09-sphd60-40",
+    "series_group": "60-casement",
+    "source_page": 9,
+    "source_serial": 9,
+    "product_code": "SPHD60-40",
+    "name": "17 Glass Beading",
+    "name_as_printed": "17 Glass Beading",
+    "series_as_printed": "CW",
+    "thickness_mm": null,
+    "weight_kg_per_m": 0.218,
+    "length_m": 5.8,
+    "length_weight_as_printed": "1.2644",
+    "pieces_per_bag": 24,
+    "source_fields": {
+      "S.No.": "9",
+      "Product Description": "17 Glass Beading",
+      "Product Code": "SPHD60-40",
+      "Series": "CW",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "0.2180",
+      "Length/Mtr": "5.800",
+      "Length Weight": "1.2644",
+      "Pcs/Bag": "24"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/60-casement/p09-09-sphd60-40-diagram.png",
+        "width": 511,
+        "height": 408,
+        "source_page": 9,
+        "bbox_pdf_points": [
+          573.04,
+          181.72,
+          743.24,
+          317.48
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/60-casement/p09-09-sphd60-40-card.png",
+        "width": 667,
+        "height": 761,
+        "source_page": 9,
+        "bbox_pdf_points": [
+          557.18,
+          78.62,
+          779.26,
+          331.78
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      190
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p09-10-sphd60-41",
+    "series_group": "60-casement",
+    "source_page": 9,
+    "source_serial": 10,
+    "product_code": "SPHD60-41",
+    "name": "19 Glass Beading",
+    "name_as_printed": "19 Glass Beading",
+    "series_as_printed": "CW",
+    "thickness_mm": null,
+    "weight_kg_per_m": 0.217,
+    "length_m": 5.8,
+    "length_weight_as_printed": "1.2586",
+    "pieces_per_bag": 30,
+    "source_fields": {
+      "S.No.": "10",
+      "Product Description": "19 Glass Beading",
+      "Product Code": "SPHD60-41",
+      "Series": "CW",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "0.2170",
+      "Length/Mtr": "5.800",
+      "Length Weight": "1.2586",
+      "Pcs/Bag": "30"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/60-casement/p09-10-sphd60-41-diagram.png",
+        "width": 481,
+        "height": 391,
+        "source_page": 9,
+        "bbox_pdf_points": [
+          80.8,
+          449.56,
+          240.8,
+          579.56
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/60-casement/p09-10-sphd60-41-card.png",
+        "width": 699,
+        "height": 751,
+        "source_page": 9,
+        "bbox_pdf_points": [
+          55.94,
+          339.14,
+          288.46,
+          589.06
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      189
+    ],
+    "review_notes": [
+      "Code appears in multiple catalog entries; retain page/serial ID until supplier review."
+    ]
+  },
+  {
+    "id": "p09-11-sphd60-42",
+    "series_group": "60-casement",
+    "source_page": 9,
+    "source_serial": 11,
+    "product_code": "SPHD60-42",
+    "name": "34 Glass Beading",
+    "name_as_printed": "34 Glass Beading",
+    "series_as_printed": "CW",
+    "thickness_mm": null,
+    "weight_kg_per_m": 0.296,
+    "length_m": 5.8,
+    "length_weight_as_printed": "1.7168",
+    "pieces_per_bag": 24,
+    "source_fields": {
+      "S.No.": "11",
+      "Product Description": "34 Glass Beading",
+      "Product Code": "SPHD60-42",
+      "Series": "CW",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "0.2960",
+      "Length/Mtr": "5.800",
+      "Length Weight": "1.7168",
+      "Pcs/Bag": "24"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/60-casement/p09-11-sphd60-42-diagram.png",
+        "width": 443,
+        "height": 385,
+        "source_page": 9,
+        "bbox_pdf_points": [
+          340.84,
+          451.84,
+          488.24,
+          579.68
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/60-casement/p09-11-sphd60-42-card.png",
+        "width": 669,
+        "height": 751,
+        "source_page": 9,
+        "bbox_pdf_points": [
+          311.42,
+          339.14,
+          534.22,
+          589.06
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      188
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p09-12-sphd60-43",
+    "series_group": "60-casement",
+    "source_page": 9,
+    "source_serial": 12,
+    "product_code": "SPHD60-43",
+    "name": "15 Glass Beading",
+    "name_as_printed": "15 Glass Beading",
+    "series_as_printed": "CW",
+    "thickness_mm": null,
+    "weight_kg_per_m": 0.21,
+    "length_m": 5.8,
+    "length_weight_as_printed": "1.2180",
+    "pieces_per_bag": 30,
+    "source_fields": {
+      "S.No.": "12",
+      "Product Description": "15 Glass Beading",
+      "Product Code": "SPHD60-43",
+      "Series": "CW",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "0.2100",
+      "Length/Mtr": "5.800",
+      "Length Weight": "1.2180",
+      "Pcs/Bag": "30"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/60-casement/p09-12-sphd60-43-diagram.png",
+        "width": 500,
+        "height": 373,
+        "source_page": 9,
+        "bbox_pdf_points": [
+          586.24,
+          446.8,
+          752.6,
+          570.68
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/60-casement/p09-12-sphd60-43-card.png",
+        "width": 667,
+        "height": 751,
+        "source_page": 9,
+        "bbox_pdf_points": [
+          557.18,
+          339.14,
+          779.26,
+          589.06
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      187
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p10-13-sphd60-70",
+    "series_group": "60-casement",
+    "source_page": 10,
+    "source_serial": 13,
+    "product_code": "SPHD60-70",
+    "name": "90° Bay  Corner",
+    "name_as_printed": "90° Bay  Corner",
+    "series_as_printed": "CW",
+    "thickness_mm": null,
+    "weight_kg_per_m": 0.721,
+    "length_m": 5.8,
+    "length_weight_as_printed": "4.1818",
+    "pieces_per_bag": 4,
+    "source_fields": {
+      "S.No.": "13",
+      "Product Description": "90° Bay  Corner",
+      "Product Code": "SPHD60-70",
+      "Series": "CW",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "0.7210",
+      "Length/Mtr": "5.800",
+      "Length Weight": "4.1818",
+      "Pcs/Bag": "4"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/60-casement/p10-13-sphd60-70-diagram.png",
+        "width": 427,
+        "height": 442,
+        "source_page": 10,
+        "bbox_pdf_points": [
+          70.0,
+          186.16,
+          212.24,
+          333.2
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/60-casement/p10-13-sphd60-70-card.png",
+        "width": 699,
+        "height": 761,
+        "source_page": 10,
+        "bbox_pdf_points": [
+          55.94,
+          87.86,
+          288.46,
+          341.02
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235,
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266,
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280,
+      281,
+      282,
+      283,
+      284,
+      285,
+      286,
+      287,
+      288,
+      289,
+      290,
+      291,
+      292,
+      293,
+      294,
+      295,
+      296,
+      297,
+      298,
+      299,
+      300,
+      301,
+      302,
+      303,
+      304,
+      305,
+      306,
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      318,
+      319,
+      320,
+      321,
+      322,
+      324,
+      325,
+      326,
+      327,
+      328,
+      329,
+      330,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343,
+      344,
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363,
+      364,
+      365,
+      366,
+      367,
+      368,
+      369,
+      370,
+      371,
+      372,
+      373,
+      374,
+      375,
+      376,
+      377,
+      378,
+      379,
+      380,
+      381,
+      382,
+      383,
+      384,
+      385,
+      386,
+      387,
+      388,
+      389,
+      390,
+      391,
+      392,
+      393,
+      394,
+      395,
+      396,
+      397,
+      398,
+      399,
+      400,
+      401,
+      402,
+      403,
+      404,
+      405,
+      406,
+      407,
+      408,
+      409,
+      410,
+      411,
+      412,
+      413,
+      414,
+      415,
+      416,
+      417,
+      418,
+      419,
+      420,
+      421,
+      422,
+      423,
+      424,
+      425,
+      426,
+      427,
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434,
+      435,
+      436,
+      439,
+      440,
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447,
+      448,
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456,
+      457,
+      458,
+      459,
+      460,
+      461,
+      462,
+      463,
+      464,
+      465,
+      466,
+      467,
+      468,
+      469,
+      470,
+      471,
+      472,
+      473,
+      474,
+      475,
+      476,
+      477,
+      478,
+      479,
+      480,
+      481,
+      482,
+      483,
+      484,
+      485,
+      486,
+      487,
+      488,
+      489,
+      490,
+      491,
+      492,
+      493,
+      494,
+      495,
+      496,
+      497,
+      498,
+      499,
+      500,
+      501,
+      502,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508,
+      509,
+      510,
+      511,
+      512,
+      513
+    ],
+    "review_notes": [
+      "Diagram assembled from 299 placed images; prefer rendered diagram over raw originals."
+    ]
+  },
+  {
+    "id": "p10-14-sphd60-76",
+    "series_group": "60-casement",
+    "source_page": 10,
+    "source_serial": 14,
+    "product_code": "SPHD60-76",
+    "name": "80 Tube Adaptor",
+    "name_as_printed": "80 Tube Adaptor",
+    "series_as_printed": "CW",
+    "thickness_mm": null,
+    "weight_kg_per_m": 0.665,
+    "length_m": 5.8,
+    "length_weight_as_printed": "3.8570",
+    "pieces_per_bag": 10,
+    "source_fields": {
+      "S.No.": "14",
+      "Product Description": "80 Tube Adaptor",
+      "Product Code": "SPHD60-76",
+      "Series": "CW",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "0.6650",
+      "Length/Mtr": "5.800",
+      "Length Weight": "3.8570",
+      "Pcs/Bag": "10"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/60-casement/p10-14-sphd60-76-diagram.png",
+        "width": 559,
+        "height": 421,
+        "source_page": 10,
+        "bbox_pdf_points": [
+          324.52,
+          182.08,
+          510.44,
+          322.28
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/60-casement/p10-14-sphd60-76-card.png",
+        "width": 669,
+        "height": 761,
+        "source_page": 10,
+        "bbox_pdf_points": [
+          311.42,
+          87.86,
+          534.22,
+          341.02
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      212
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p10-15-sphd60-52",
+    "series_group": "60-casement",
+    "source_page": 10,
+    "source_serial": 15,
+    "product_code": "SPHD60-52",
+    "name": "Casement Screen Sash",
+    "name_as_printed": "Cashment Screen Sash",
+    "series_as_printed": "CW",
+    "thickness_mm": null,
+    "weight_kg_per_m": 0.472,
+    "length_m": 5.8,
+    "length_weight_as_printed": "2.7376",
+    "pieces_per_bag": 16,
+    "source_fields": {
+      "S.No.": "15",
+      "Product Description": "Cashment Screen Sash",
+      "Product Code": "SPHD60-52",
+      "Series": "CW",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "0.4720",
+      "Length/Mtr": "5.800",
+      "Length Weight": "2.7376",
+      "Pcs/Bag": "16"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/60-casement/p10-15-sphd60-52-diagram.png",
+        "width": 520,
+        "height": 450,
+        "source_page": 10,
+        "bbox_pdf_points": [
+          583.24,
+          188.8,
+          756.08,
+          338.62
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/60-casement/p10-15-sphd60-52-card.png",
+        "width": 667,
+        "height": 761,
+        "source_page": 10,
+        "bbox_pdf_points": [
+          557.18,
+          87.86,
+          779.26,
+          341.02
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      323
+    ],
+    "review_notes": [
+      "Display spelling normalized; original spelling retained in name_as_printed."
+    ]
+  },
+  {
+    "id": "p11-01-sphd65-10",
+    "series_group": "65-casement",
+    "source_page": 11,
+    "source_serial": 1,
+    "product_code": "SPHD65-10",
+    "name": "65 Casement Frame",
+    "name_as_printed": "65 Casement Frame",
+    "series_as_printed": "65 CW",
+    "thickness_mm": 2.6,
+    "weight_kg_per_m": 1.36,
+    "length_m": 5.8,
+    "length_weight_as_printed": "7.8880",
+    "pieces_per_bag": 4,
+    "source_fields": {
+      "S.No.": "1",
+      "Product Description": "65 Casement Frame",
+      "Product Code": "SPHD65-10",
+      "Series": "65 CW",
+      "Thickness": "2.6 mm",
+      "Weight (Kgs/Mtr)": "1.3600",
+      "Length/Mtr": "5.800",
+      "Length Weight": "7.8880",
+      "Pcs/Bag": "4"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/65-casement/p11-01-sphd65-10-diagram.png",
+        "width": 440,
+        "height": 466,
+        "source_page": 11,
+        "bbox_pdf_points": [
+          83.2,
+          176.32,
+          229.52,
+          331.16
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/65-casement/p11-01-sphd65-10-card.png",
+        "width": 688,
+        "height": 750,
+        "source_page": 11,
+        "bbox_pdf_points": [
+          55.94,
+          86.78,
+          284.98,
+          336.46
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      533
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p11-02-sphd65-30",
+    "series_group": "65-casement",
+    "source_page": 11,
+    "source_serial": 2,
+    "product_code": "SPHD65-30",
+    "name": "65 Casement Mullion",
+    "name_as_printed": "65 Casement Mullian",
+    "series_as_printed": "65 CW",
+    "thickness_mm": 2.6,
+    "weight_kg_per_m": 1.621,
+    "length_m": 5.8,
+    "length_weight_as_printed": "9.4018",
+    "pieces_per_bag": 4,
+    "source_fields": {
+      "S.No.": "2",
+      "Product Description": "65 Casement Mullian",
+      "Product Code": "SPHD65-30",
+      "Series": "65 CW",
+      "Thickness": "2.6 mm",
+      "Weight (Kgs/Mtr)": "1.6210",
+      "Length/Mtr": "5.800",
+      "Length Weight": "9.4018",
+      "Pcs/Bag": "4"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/65-casement/p11-02-sphd65-30-diagram.png",
+        "width": 461,
+        "height": 461,
+        "source_page": 11,
+        "bbox_pdf_points": [
+          337.36,
+          180.4,
+          490.88,
+          333.68
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/65-casement/p11-02-sphd65-30-card.png",
+        "width": 660,
+        "height": 750,
+        "source_page": 11,
+        "bbox_pdf_points": [
+          307.58,
+          86.78,
+          527.14,
+          336.46
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      534
+    ],
+    "review_notes": [
+      "Display spelling normalized; original spelling retained in name_as_printed."
+    ]
+  },
+  {
+    "id": "p11-03-sphd65-21-1",
+    "series_group": "65-casement",
+    "source_page": 11,
+    "source_serial": 3,
+    "product_code": "SPHD65-21-1",
+    "name": "65 Casement Outward Door Sash",
+    "name_as_printed": "65 Casement Outward Door Sash",
+    "series_as_printed": "65 CW",
+    "thickness_mm": 2.6,
+    "weight_kg_per_m": 1.859,
+    "length_m": 5.8,
+    "length_weight_as_printed": "10.7822",
+    "pieces_per_bag": 4,
+    "source_fields": {
+      "S.No.": "3",
+      "Product Description": "65 Casement Outward Door Sash",
+      "Product Code": "SPHD65-21-1",
+      "Series": "65 CW",
+      "Thickness": "2.6 mm",
+      "Weight (Kgs/Mtr)": "1.8590",
+      "Length/Mtr": "5.800",
+      "Length Weight": "10.7822",
+      "Pcs/Bag": "4"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/65-casement/p11-03-sphd65-21-1-diagram.png",
+        "width": 423,
+        "height": 453,
+        "source_page": 11,
+        "bbox_pdf_points": [
+          586.12,
+          180.28,
+          726.68,
+          330.92
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/65-casement/p11-03-sphd65-21-1-card.png",
+        "width": 657,
+        "height": 750,
+        "source_page": 11,
+        "bbox_pdf_points": [
+          549.74,
+          86.78,
+          768.46,
+          336.46
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      535
+    ],
+    "review_notes": [
+      "Code appears in multiple catalog entries; retain page/serial ID until supplier review."
+    ]
+  },
+  {
+    "id": "p11-04-sphd65-20",
+    "series_group": "65-casement",
+    "source_page": 11,
+    "source_serial": 4,
+    "product_code": "SPHD65-20",
+    "name": "65 Casement Inward Door Sash",
+    "name_as_printed": "65 Casement Inward Door Sash",
+    "series_as_printed": "65 CW",
+    "thickness_mm": 2.6,
+    "weight_kg_per_m": 1.388,
+    "length_m": 5.8,
+    "length_weight_as_printed": "8.0504",
+    "pieces_per_bag": 4,
+    "source_fields": {
+      "S.No.": "4",
+      "Product Description": "65 Casement Inward Door Sash",
+      "Product Code": "SPHD65-20",
+      "Series": "65 CW",
+      "Thickness": "2.6 mm",
+      "Weight (Kgs/Mtr)": "1.3880",
+      "Length/Mtr": "5.800",
+      "Length Weight": "8.0504",
+      "Pcs/Bag": "4"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/65-casement/p11-04-sphd65-20-diagram.png",
+        "width": 480,
+        "height": 425,
+        "source_page": 11,
+        "bbox_pdf_points": [
+          87.4,
+          442.84,
+          247.04,
+          584.12
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/65-casement/p11-04-sphd65-20-card.png",
+        "width": 688,
+        "height": 740,
+        "source_page": 11,
+        "bbox_pdf_points": [
+          55.94,
+          343.7,
+          284.98,
+          590.14
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      536
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p11-05-sphd65-11",
+    "series_group": "65-casement",
+    "source_page": 11,
+    "source_serial": 5,
+    "product_code": "SPHD65-11",
+    "name": "65 Casement Frame",
+    "name_as_printed": "65 Casemnt Frame",
+    "series_as_printed": "65 CW",
+    "thickness_mm": 2.5,
+    "weight_kg_per_m": 1.237,
+    "length_m": 5.8,
+    "length_weight_as_printed": "7.1746",
+    "pieces_per_bag": 4,
+    "source_fields": {
+      "S.No.": "5",
+      "Product Description": "65 Casemnt Frame",
+      "Product Code": "SPHD65-11",
+      "Series": "65 CW",
+      "Thickness": "2.5 mm",
+      "Weight (Kgs/Mtr)": "1.2370",
+      "Length/Mtr": "5.800",
+      "Length Weight": "7.1746",
+      "Pcs/Bag": "4"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/65-casement/p11-05-sphd65-11-diagram.png",
+        "width": 526,
+        "height": 389,
+        "source_page": 11,
+        "bbox_pdf_points": [
+          331.96,
+          446.08,
+          506.72,
+          575.36
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/65-casement/p11-05-sphd65-11-card.png",
+        "width": 660,
+        "height": 740,
+        "source_page": 11,
+        "bbox_pdf_points": [
+          307.58,
+          343.7,
+          527.14,
+          590.14
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      537
+    ],
+    "review_notes": [
+      "Display spelling normalized; original spelling retained in name_as_printed."
+    ]
+  },
+  {
+    "id": "p11-06-sphd65-31",
+    "series_group": "65-casement",
+    "source_page": 11,
+    "source_serial": 6,
+    "product_code": "SPHD65-31",
+    "name": "65 Casement Mullion",
+    "name_as_printed": "65 Casement Mullian",
+    "series_as_printed": "65 CW",
+    "thickness_mm": 2.5,
+    "weight_kg_per_m": 1.471,
+    "length_m": 5.8,
+    "length_weight_as_printed": "8.5318",
+    "pieces_per_bag": 4,
+    "source_fields": {
+      "S.No.": "6",
+      "Product Description": "65 Casement Mullian",
+      "Product Code": "SPHD65-31",
+      "Series": "65 CW",
+      "Thickness": "2.5 mm",
+      "Weight (Kgs/Mtr)": "1.4710",
+      "Length/Mtr": "5.800",
+      "Length Weight": "8.5318",
+      "Pcs/Bag": "4"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/65-casement/p11-06-sphd65-31-diagram.png",
+        "width": 372,
+        "height": 422,
+        "source_page": 11,
+        "bbox_pdf_points": [
+          600.64,
+          436.48,
+          724.28,
+          576.8
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/65-casement/p11-06-sphd65-31-card.png",
+        "width": 657,
+        "height": 740,
+        "source_page": 11,
+        "bbox_pdf_points": [
+          549.74,
+          343.7,
+          768.46,
+          590.14
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      538
+    ],
+    "review_notes": [
+      "Display spelling normalized; original spelling retained in name_as_printed."
+    ]
+  },
+  {
+    "id": "p12-07-sphd65-21-1",
+    "series_group": "65-casement",
+    "source_page": 12,
+    "source_serial": 7,
+    "product_code": "SPHD65-21-1",
+    "name": "65 Casement Outward Door Sash",
+    "name_as_printed": "65 Casement Outward Door Sash",
+    "series_as_printed": "65 CW",
+    "thickness_mm": 2.5,
+    "weight_kg_per_m": 1.859,
+    "length_m": 5.8,
+    "length_weight_as_printed": "10.7822",
+    "pieces_per_bag": 4,
+    "source_fields": {
+      "S.No.": "7",
+      "Product Description": "65 Casement Outward Door Sash",
+      "Product Code": "SPHD65-21-1",
+      "Series": "65 CW",
+      "Thickness": "2.5 mm",
+      "Weight (Kgs/Mtr)": "1.8590",
+      "Length/Mtr": "5.800",
+      "Length Weight": "10.7822",
+      "Pcs/Bag": "4"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/65-casement/p12-07-sphd65-21-1-diagram.png",
+        "width": 466,
+        "height": 457,
+        "source_page": 12,
+        "bbox_pdf_points": [
+          88.72,
+          174.64,
+          243.92,
+          326.36
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/65-casement/p12-07-sphd65-21-1-card.png",
+        "width": 699,
+        "height": 761,
+        "source_page": 12,
+        "bbox_pdf_points": [
+          55.94,
+          78.62,
+          288.46,
+          331.78
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      560
+    ],
+    "review_notes": [
+      "Code appears in multiple catalog entries; retain page/serial ID until supplier review."
+    ]
+  },
+  {
+    "id": "p12-08-sphd65-22",
+    "series_group": "65-casement",
+    "source_page": 12,
+    "source_serial": 8,
+    "product_code": "SPHD65-22",
+    "name": "65 Casement Inward Door Sash",
+    "name_as_printed": "65 Casement Inward Door Sash",
+    "series_as_printed": "65 CW",
+    "thickness_mm": 2.5,
+    "weight_kg_per_m": 1.37,
+    "length_m": 5.8,
+    "length_weight_as_printed": "7.9460",
+    "pieces_per_bag": 4,
+    "source_fields": {
+      "S.No.": "8",
+      "Product Description": "65 Casement Inward Door Sash",
+      "Product Code": "SPHD65-22",
+      "Series": "65 CW",
+      "Thickness": "2.5 mm",
+      "Weight (Kgs/Mtr)": "1.3700",
+      "Length/Mtr": "5.800",
+      "Length Weight": "7.9460",
+      "Pcs/Bag": "4"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/65-casement/p12-08-sphd65-22-diagram.png",
+        "width": 484,
+        "height": 436,
+        "source_page": 12,
+        "bbox_pdf_points": [
+          341.2,
+          179.8,
+          502.28,
+          324.8
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/65-casement/p12-08-sphd65-22-card.png",
+        "width": 669,
+        "height": 761,
+        "source_page": 12,
+        "bbox_pdf_points": [
+          311.42,
+          78.62,
+          534.22,
+          331.78
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      561
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p12-09-sphd60-41",
+    "series_group": "65-casement",
+    "source_page": 12,
+    "source_serial": 9,
+    "product_code": "SPHD60-41",
+    "name": "21 Frame Glass Beading",
+    "name_as_printed": "21 Frame Glass Beading",
+    "series_as_printed": "65 CW",
+    "thickness_mm": null,
+    "weight_kg_per_m": 0.262,
+    "length_m": 5.8,
+    "length_weight_as_printed": "1.5196",
+    "pieces_per_bag": 24,
+    "source_fields": {
+      "S.No.": "9",
+      "Product Description": "21 Frame Glass Beading",
+      "Product Code": "SPHD60-41",
+      "Series": "65 CW",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "0.2620",
+      "Length/Mtr": "5.800",
+      "Length Weight": "1.5196",
+      "Pcs/Bag": "24"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/65-casement/p12-09-sphd60-41-diagram.png",
+        "width": 501,
+        "height": 419,
+        "source_page": 12,
+        "bbox_pdf_points": [
+          580.72,
+          181.84,
+          747.56,
+          321.2
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/65-casement/p12-09-sphd60-41-card.png",
+        "width": 667,
+        "height": 761,
+        "source_page": 12,
+        "bbox_pdf_points": [
+          557.18,
+          78.62,
+          779.26,
+          331.78
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      562
+    ],
+    "review_notes": [
+      "Code appears in multiple catalog entries; retain page/serial ID until supplier review."
+    ]
+  },
+  {
+    "id": "p12-10-sphd65-41",
+    "series_group": "65-casement",
+    "source_page": 12,
+    "source_serial": 10,
+    "product_code": "SPHD65-41",
+    "name": "22 Frame Glass Beading",
+    "name_as_printed": "22 Frame Glass Beading",
+    "series_as_printed": "65 CW",
+    "thickness_mm": null,
+    "weight_kg_per_m": 0.313,
+    "length_m": 5.8,
+    "length_weight_as_printed": "1.8154",
+    "pieces_per_bag": 24,
+    "source_fields": {
+      "S.No.": "10",
+      "Product Description": "22 Frame Glass Beading",
+      "Product Code": "SPHD65-41",
+      "Series": "65 CW",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "0.3130",
+      "Length/Mtr": "5.800",
+      "Length Weight": "1.8154",
+      "Pcs/Bag": "24"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/65-casement/p12-10-sphd65-41-diagram.png",
+        "width": 369,
+        "height": 374,
+        "source_page": 12,
+        "bbox_pdf_points": [
+          84.88,
+          436.36,
+          207.44,
+          560.84
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/65-casement/p12-10-sphd65-41-card.png",
+        "width": 699,
+        "height": 751,
+        "source_page": 12,
+        "bbox_pdf_points": [
+          55.94,
+          339.14,
+          288.46,
+          589.06
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      563
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p12-11-sphd65-40",
+    "series_group": "65-casement",
+    "source_page": 12,
+    "source_serial": 11,
+    "product_code": "SPHD65-40",
+    "name": "24 Frame Glass Beading",
+    "name_as_printed": "24 Frame Glass Beading",
+    "series_as_printed": "65 CW",
+    "thickness_mm": null,
+    "weight_kg_per_m": 0.321,
+    "length_m": 5.8,
+    "length_weight_as_printed": "1.8618",
+    "pieces_per_bag": 24,
+    "source_fields": {
+      "S.No.": "11",
+      "Product Description": "24 Frame Glass Beading",
+      "Product Code": "SPHD65-40",
+      "Series": "65 CW",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "0.3210",
+      "Length/Mtr": "5.800",
+      "Length Weight": "1.8618",
+      "Pcs/Bag": "24"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/65-casement/p12-11-sphd65-40-diagram.png",
+        "width": 391,
+        "height": 419,
+        "source_page": 12,
+        "bbox_pdf_points": [
+          350.2,
+          430.24,
+          480.2,
+          569.6
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/65-casement/p12-11-sphd65-40-card.png",
+        "width": 669,
+        "height": 751,
+        "source_page": 12,
+        "bbox_pdf_points": [
+          311.42,
+          339.14,
+          534.22,
+          589.06
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      564
+    ],
+    "review_notes": []
+  },
+  {
+    "id": "p12-12-sphd65-42",
+    "series_group": "65-casement",
+    "source_page": 12,
+    "source_serial": 12,
+    "product_code": "SPHD65-42",
+    "name": "24 Sash Glass Beading",
+    "name_as_printed": "24 Sash Glass Beading",
+    "series_as_printed": "65 CW",
+    "thickness_mm": null,
+    "weight_kg_per_m": 0.28,
+    "length_m": 5.8,
+    "length_weight_as_printed": "1.6240",
+    "pieces_per_bag": 24,
+    "source_fields": {
+      "S.No.": "12",
+      "Product Description": "24 Sash Glass Beading",
+      "Product Code": "SPHD65-42",
+      "Series": "65 CW",
+      "Thickness": "-",
+      "Weight (Kgs/Mtr)": "0.2800",
+      "Length/Mtr": "5.800",
+      "Length Weight": "1.6240",
+      "Pcs/Bag": "24"
+    },
+    "assets": {
+      "diagram": {
+        "path": "products/65-casement/p12-12-sphd65-42-diagram.png",
+        "width": 423,
+        "height": 428,
+        "source_page": 12,
+        "bbox_pdf_points": [
+          599.2,
+          434.8,
+          739.88,
+          577.28
+        ],
+        "method": "page render",
+        "dpi": 216
+      },
+      "card": {
+        "path": "products/65-casement/p12-12-sphd65-42-card.png",
+        "width": 667,
+        "height": 751,
+        "source_page": 12,
+        "bbox_pdf_points": [
+          557.18,
+          339.14,
+          779.26,
+          589.06
+        ],
+        "method": "page render",
+        "dpi": 216
+      }
+    },
+    "embedded_xrefs": [
+      565
+    ],
+    "review_notes": []
+  }
+]

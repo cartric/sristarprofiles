@@ -1,0 +1,5 @@
+{{ define "main" }}{{ partial "catalog/page-header.html" . }}{{ $company := partialCached "catalog/company.html" . }}
+<section class="page-content"><div class="container"><div class="row g-4 g-lg-5">
+  <div class="col-lg-5"><div class="contact-panel"><p class="eyebrow" style="color:#ffb653">KALPANA TRADERS</p><h2>Let’s discuss your requirements.</h2><p>Contact the SRI STAR Profiles authorised distributor for the Southern Region.</p><h3>Call us</h3><p><a href="tel:+919865599555">+91 98655 99555</a><br><a href="tel:+919944541604">+91 99445 41604</a></p><h3>Email</h3><a class="email-link" href="mailto:{{ $company.distributor.email_as_printed }}">{{ $company.distributor.email_as_printed }}</a><h3>Visit us</h3><address>{{ range $company.distributor.address_lines }}{{ . }}<br>{{ end }}</address><a class="btn mt-2" href="https://www.google.com/maps/search/?api=1&query={{ delimit $company.distributor.address_lines " " | urlquery }}" target="_blank" rel="noopener">Find the address on Google Maps ↗</a><h3>Tax ID</h3><p class="mb-0">{{ $company.distributor.tax_id_as_printed }}</p></div></div>
+  <div class="col-lg-7">{{ .Content }}</div>
+</div></div></section>{{ end }}

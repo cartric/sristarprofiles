@@ -1,0 +1,15 @@
+{{ $products := partialCached "catalog/products.html" . }}
+<div class="series-grid">
+  {{ range hugo.Data.catalog.series }}
+    {{ $series := . }}
+    {{ $product := index (where $products "id" .representative) 0 }}
+    <a class="series-card" href="{{ printf "products/%s/" .id | relURL }}">
+      <div class="series-art">
+        {{ partial "catalog/image.html" (dict "src" (printf "sri-star-catalog/%s" $product.assets.diagram.path) "width" 480 "alt" (printf "%s frame cross-section" .title)) }}
+        <span class="series-number">{{ .number }}</span>
+      </div>
+      <div class="series-copy"><p class="eyebrow">{{ .family }}</p><h3>{{ .title }}</h3><p>{{ .description }}</p><span class="series-link">Explore the series <span aria-hidden="true">↗</span></span></div>
+    </a>
+  {{ end }}
+  <div class="series-help"><p class="eyebrow">HERE TO HELP</p><h3>Find the profile for your next project.</h3><p>Have a product code or a drawing? Share your requirements with Kalpana Traders.</p><a href="{{ "contact/" | relURL }}" class="btn btn-accent">Talk to our team <span aria-hidden="true">↗</span></a></div>
+</div>

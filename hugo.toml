@@ -1,0 +1,54 @@
+# Set baseURL to the final domain when deploying. Local development uses localhost.
+baseURL = "http://localhost:1313/"
+locale = "en-IN"
+title = "SRI STAR Profiles | Kalpana Traders"
+theme = "lotusdocs"
+enableGitInfo = false
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+
+[module]
+  [[module.imports]]
+    path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
+
+[params]
+  description = "SRI STAR uPVC profiles for window and door fabrication. Explore casement and sliding profile systems from Kalpana Traders, authorised distributor in Coimbatore."
+  author = "Kalpana Traders"
+  sans_serif_font = "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+  secondary_font = "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+  [params.footer]
+    copyright = "© :YEAR: Kalpana Traders. All rights reserved."
+  [params.docs]
+    title = "SRI STAR Profiles"
+    darkMode = false
+    prism = false
+    toc = false
+    descriptions = true
+  [params.flexsearch]
+    enabled = false
+
+[menu]
+  [[menu.primary]]
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.primary]]
+    name = "Products"
+    url = "/products/"
+    weight = 20
+  [[menu.primary]]
+    name = "About us"
+    url = "/about/"
+    weight = 30
+  [[menu.primary]]
+    name = "Quality"
+    url = "/quality/"
+    weight = 40
+  [[menu.primary]]
+    name = "Downloads"
+    url = "/downloads/"
+    weight = 50
+  [[menu.primary]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 60

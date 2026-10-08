@@ -1,0 +1,24 @@
+{{ $company := partialCached "catalog/company.html" . }}
+<form class="enquiry-form" id="enquiry-form" data-email="{{ $company.distributor.email_as_printed }}">
+  <h2>Prepare a product enquiry.</h2>
+  <p class="form-explanation">Add your requirements below to prepare an email to Kalpana Traders. You can review the draft, then send it using your email app.</p>
+  <div class="row g-3 mt-1">
+    <div class="col-md-6"><label for="enquiry-name">Your name *</label><input class="form-control" id="enquiry-name" name="name" autocomplete="name" required maxlength="120"></div>
+    <div class="col-md-6"><label for="enquiry-email">Email address *</label><input class="form-control" id="enquiry-email" name="email" type="email" autocomplete="email" required maxlength="200"></div>
+    <div class="col-md-6"><label for="enquiry-phone">Phone number</label><input class="form-control" id="enquiry-phone" name="phone" type="tel" autocomplete="tel" maxlength="40"></div>
+    <div class="col-md-6"><label for="enquiry-company">Company</label><input class="form-control" id="enquiry-company" name="company" autocomplete="organization" maxlength="150"></div>
+    <div class="col-md-6"><label for="enquiry-product">Product code / series</label><input class="form-control" id="enquiry-product" name="product" placeholder="For example: SPHD60-11" maxlength="200"></div>
+    <div class="col-md-6"><label for="enquiry-quantity">Quantity required</label><input class="form-control" id="enquiry-quantity" name="quantity" placeholder="Lengths, bags, or metres" maxlength="100"></div>
+    <div class="col-12"><label for="enquiry-reference">Catalogue reference</label><input class="form-control" id="enquiry-reference" name="reference" placeholder="Optional: page and entry number" maxlength="200"></div>
+    <div class="col-12"><label for="enquiry-message">Your requirements *</label><textarea class="form-control" id="enquiry-message" name="message" rows="5" required maxlength="2500" placeholder="Tell us about the profiles you need and your project location."></textarea></div>
+    <div class="col-12"><button class="btn btn-primary" type="submit" id="prepare-enquiry" disabled>Prepare email enquiry <span aria-hidden="true">↗</span></button></div>
+  </div>
+  <noscript><p class="mt-3">To send an enquiry, email <a href="mailto:{{ $company.distributor.email_as_printed }}">{{ $company.distributor.email_as_printed }}</a> with your product codes, quantities, and contact details.</p></noscript>
+  <div class="email-draft" id="email-draft" hidden>
+    <p id="draft-status" role="status" class="mb-2">Your email draft is ready. It has not been sent.</p>
+    <label for="draft-text">Enquiry details</label><textarea class="form-control" id="draft-text" rows="9" readonly></textarea>
+    <a class="btn btn-primary" id="open-email-app" href="mailto:{{ $company.distributor.email_as_printed }}">Open email app ↗</a>
+    <button class="btn btn-outline-primary mt-2 mt-sm-0" id="copy-enquiry" type="button">Copy enquiry</button>
+    <p class="label-small mt-3 mb-0">No email app? Copy the enquiry and send it to <a class="email-link" href="mailto:{{ $company.distributor.email_as_printed }}">{{ $company.distributor.email_as_printed }}</a> using your preferred email service.</p>
+  </div>
+</form>

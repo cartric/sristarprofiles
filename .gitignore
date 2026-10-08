@@ -1,0 +1,28 @@
+# Hugo build output and generated caches
+/public/
+/resources/_gen/
+/.hugo_build.lock
+/hugo_stats.json
+/assets/jsconfig.json
+
+# Local Hugo executables (CI installs Hugo separately)
+/tools/hugo
+/tools/hugo.exe
+
+# Local dependencies, scratch files, and generated artifacts
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+/tmp/
+/output/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# macOS metadata
+.DS_Store
+._*

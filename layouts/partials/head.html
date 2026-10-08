@@ -1,0 +1,27 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ site.Title }}</title>
+  {{ $description := .Description | default site.Params.description }}
+  <meta name="description" content="{{ $description }}">
+  <meta name="author" content="Kalpana Traders">
+  <meta name="theme-color" content="#063f2f">
+  {{ if not hugo.IsProduction }}<meta name="robots" content="noindex">{{ end }}
+  <link rel="canonical" href="{{ .Permalink }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ site.Title }}">
+  <meta property="og:description" content="{{ $description }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:site_name" content="SRI STAR Profiles | Kalpana Traders">
+  {{ $socialImage := (resources.Get "sri-star-catalog/marketing/cover.png").Resize "1200x jpg q85" }}
+  <meta property="og:image" content="{{ $socialImage.Permalink }}">
+  <meta property="og:image:alt" content="SRI STAR Profiles product catalogue">
+  <meta name="twitter:card" content="summary_large_image">
+  {{ partial "head/favicon.html" . }}
+  {{ $options := dict "enableSourceMap" (not hugo.IsProduction) "outputStyle" "compressed" }}
+  {{ $theme := resources.Get "scss/style.scss" }}
+  {{ $theme = $theme | resources.ExecuteAsTemplate "scss/style.scss" . | css.Sass $options | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $theme.RelPermalink }}" integrity="{{ $theme.Data.Integrity }}">
+  {{ $style := resources.Get "css/site.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
+</head>

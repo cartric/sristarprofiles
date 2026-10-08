@@ -1,0 +1,98 @@
+{
+  "source": "assets/SRI_STAR_Product_Catalogue_Landscape (2).pdf",
+  "transcription_method": "Image-only pages 1, 2, 13, and 14 were visually reviewed at native image resolution. Values below are catalog statements, not independently verified business facts or technical certification.",
+  "brand": {
+    "name": "SRI STAR Profiles",
+    "tagline": "Stronger Spaces. Brighter Tomorrow.",
+    "headline": "Engineered uPVC Profiles",
+    "application": "For Window & Door Fabrication",
+    "supporting_headline": "Strong Profiles. Smarter Fabrication.",
+    "cover_benefits": ["Superior Strength", "Precise Engineering", "Long-Lasting Performance"],
+    "source_pages": [1, 2, 13, 14]
+  },
+  "distributor": {
+    "name": "Kalpana Traders",
+    "role_as_printed": "Authorised Distributor - Southern Region",
+    "address_lines": [
+      "Site No.5, SF No.593/3B1A/PART,",
+      "Pandiyan Nagar,",
+      "Eachanari to Chettipalayam Road,",
+      "Near Railway Gate, Podanur,",
+      "Coimbatore, Tamil Nadu - 641023"
+    ],
+    "tax_id_as_printed": "33ARQPS0733F1ZR",
+    "mobile_numbers_as_printed": ["+91 9865599555", "+91 9944541604"],
+    "email_as_printed": "kalpanaupvctraders@gmail.com",
+    "source_pages": [1, 14],
+    "review_notes": [
+      "The supplied PDF identifies a distributor relationship, not a legal parent/subsidiary relationship.",
+      "Confirm these contact details before putting them on the public site.",
+      "WhatsApp availability, business hours, service radius, and delivery commitments are not specified."
+    ]
+  },
+  "manufacturer": {
+    "name_as_printed": "Hebei Shengda Company",
+    "role_as_printed": "Manufacturer of SRI STAR uPVC Profiles",
+    "established_as_printed": "1999",
+    "headquarters_as_printed": "National High-Tech Industrial Development Zone of Baoding, Hebei, China",
+    "production_capacity_claims": [
+      "100,000 tons of high-quality profiles",
+      "300,000 m² of high-efficiency, energy-saving doors and windows"
+    ],
+    "capacity_note": "No time period is explicitly printed; do not silently describe these figures as annual output.",
+    "management_system_certification_claims": [
+      "ISO 9001 Quality Management System",
+      "ISO 14001 Environmental Management System"
+    ],
+    "industry_membership_claims": [
+      "Governing member of the China Building Metal Structure Association",
+      "Member of the China Passive Low-Energy Building Industry Technology Innovation Strategic Alliance",
+      "Executive committee member of the China Passive Ultra-Low Energy Building Branch"
+    ],
+    "products_and_applications_claims": [
+      "Professional supplier of energy-saving doors and windows, uPVC profiles, and ultra-low-energy passive-window systems.",
+      "Products included in the Product Selection Catalogue of Passive Low-Energy Buildings issued by the Ministry of Housing and Urban-Rural Development."
+    ],
+    "testing_and_recognition_claims": [
+      "German PHI certification",
+      "Ministry of Housing and Urban-Rural Development Kangju certification",
+      "Passive 30-minute and 60-minute fire-resistance testing"
+    ],
+    "source_page": 13,
+    "review_notes": ["These are manufacturer claims in a promotional catalog; certificates, their scope, and validity dates are not supplied."]
+  },
+  "technical_report": {
+    "title": "Technical Test Report",
+    "standard_as_printed": "GB/T 8814-2017",
+    "comparison_heading": "Reference Value vs Star Profile Result",
+    "source_page": 2,
+    "complete_test_parameters": [
+      {"test": "Surface appearance", "reference": "Smooth, flat, consistent, clean", "result": "Pass"},
+      {"test": "External dimensional deviation - thickness", "reference": "±0.3 mm", "result": "+0.16 mm"},
+      {"test": "External dimensional deviation - width", "reference": "±0.5 mm", "result": "+0.22 mm"},
+      {"test": "Linear deviation", "reference": "≤1 mm", "result": "0.5 mm"},
+      {"test": "Main profile quality", "reference": "≥95%", "result": "1.01", "review_note": "The result lacks a unit and is not directly comparable to the printed percentage threshold."},
+      {"test": "Dimensional change after heating", "reference": "≤2.0%", "result": "1.1%, 1.3%"},
+      {"test": "Difference in dimensional change between surfaces", "reference": "≤0.4%", "result": "0.002", "review_note": "The result lacks an explicit percentage sign; retain the source value pending clarification."},
+      {"test": "Condition after heating", "reference": "No bubbles/cracks/pitting", "result": "Pass"}
+    ],
+    "important_performance_parameters": [
+      {"number": 1, "test": "Wall thickness - visible", "reference": "Class B ≥2.5 mm", "result": "2.73 mm"},
+      {"number": 2, "test": "Wall thickness - non-visible", "reference": "Class B ≥2.0 mm", "result": "2.43 mm"},
+      {"number": 3, "test": "Falling hammer impact", "reference": "≤1 damaged unit", "result": "0"},
+      {"number": 4, "test": "Density", "reference": "≤1530 kg/m³", "result": "1479 kg/m³"},
+      {"number": 5, "test": "Vicat softening temperature", "reference": "≥78°C", "result": "78.9°C"},
+      {"number": 6, "test": "Tensile yield stress", "reference": "≥37 MPa", "result": "37.8 MPa"},
+      {"number": 7, "test": "Tensile fracture strain", "reference": "≥100%", "result": "3.29", "review_note": "The result lacks a unit; do not convert or assert compliance without the underlying test report."},
+      {"number": 8, "test": "Bending elastic modulus", "reference": "≥2200 MPa", "result": "2400 MPa"},
+      {"number": 9, "test": "Welded-joint bending stress - mean", "reference": "≥35 MPa", "result": "53.7 MPa"},
+      {"number": 10, "test": "Welded-joint bending stress - minimum", "reference": "≥30 MPa", "result": "42.2 MPa"},
+      {"number": 11, "test": "Short-term welding coefficient - non-decorative", "reference": "≥0.8", "result": "0.86"}
+    ],
+    "benefit_labels": ["Durable", "Weather Resistant", "Eco Friendly", "Sound Insulation", "Thermal Efficiency", "Reliable Performance"],
+    "review_notes": [
+      "The catalog's summary page does not identify a test laboratory, report number, test date, specimen, or product code.",
+      "Do not apply the displayed test results to every catalog entry without confirming scope."
+    ]
+  }
+}

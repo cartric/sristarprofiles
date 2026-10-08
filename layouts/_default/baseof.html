@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en-IN">
+  {{ partial "head.html" . }}
+  <body>
+    <noscript><style>.site-navigation{display:block}.menu-toggle{display:none}</style></noscript>
+    <a class="skip-link" href="#main">Skip to content</a>
+    {{ partial "header.html" . }}
+    <main id="main">{{ block "main" . }}{{ end }}</main>
+    {{ partial "footer.html" . }}
+    {{ $script := resources.Get "js/catalog.js" | minify | fingerprint }}
+    <script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}" defer></script>
+  </body>
+</html>

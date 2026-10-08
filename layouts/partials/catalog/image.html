@@ -1,0 +1,5 @@
+{{ $image := resources.Get .src }}
+{{ if not $image }}{{ errorf "Missing catalog asset: %s" .src }}{{ end }}
+{{ $width := int (.width | default 900) }}
+{{ $image = $image.Resize (printf "%dx webp q88" (math.Min $width $image.Width | int)) }}
+<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ .alt }}" class="{{ .class | default "img-fluid" }}" loading="{{ .loading | default "lazy" }}" decoding="async" {{ if eq .loading "eager" }}fetchpriority="high"{{ end }}>

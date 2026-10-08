@@ -1,0 +1,28 @@
+{{ $p := . }}
+{{ $series := index (where hugo.Data.catalog.series "id" $p.series_group) 0 }}
+{{ $drawing := resources.Get (printf "sri-star-catalog/%s" $p.assets.diagram.path) }}
+{{ $card := resources.Get (printf "sri-star-catalog/%s" $p.assets.card.path) }}
+{{ $query := querify "product" $p.product_code "series" $series.title "reference" (printf "Page %d, entry %d" (int $p.source_page) (int $p.source_serial)) }}
+<article class="product-card" id="{{ $p.id }}" data-product data-series="{{ $p.series_group }}" data-search="{{ printf "%s %s %s %s" $p.name $p.product_code $series.title $p.name_as_printed | lower }}">
+  <a href="{{ $drawing.RelPermalink }}" class="product-image-link" target="_blank" rel="noopener" aria-label="View {{ $p.product_code }} drawing, page {{ $p.source_page }} entry {{ $p.source_serial }} (opens in a new tab)">
+    {{ partial "catalog/image.html" (dict "src" (printf "sri-star-catalog/%s" $p.assets.diagram.path) "width" 600 "alt" (printf "%s — dimensioned profile drawing" $p.name)) }}
+    <span class="image-hint">View drawing ↗</span>
+  </a>
+  <div class="product-body">
+    <p class="product-family">{{ $series.title }}</p><p class="product-code">{{ $p.product_code }}</p><h2>{{ $p.name }}</h2>
+    <div class="product-stats"><div><strong>{{ if $p.thickness_mm }}{{ printf "%.1f" $p.thickness_mm }} mm{{ else }}—{{ end }}</strong><span>Wall thickness</span></div><div><strong>{{ index $p.source_fields "Weight (Kgs/Mtr)" }}</strong><span>Weight · kg/m</span></div><div><strong>{{ $p.pieces_per_bag | int }}</strong><span>Pieces / bag</span></div></div>
+    <details class="product-details"><summary>Full specifications</summary><table><caption class="visually-hidden">{{ $p.product_code }} specifications</caption><tbody>
+      <tr><th scope="row">Product code</th><td>{{ $p.product_code }}</td></tr>
+      <tr><th scope="row">Series</th><td>{{ $p.series_as_printed }}</td></tr>
+      <tr><th scope="row">Thickness</th><td>{{ if $p.thickness_mm }}{{ printf "%.1f" $p.thickness_mm }} mm{{ else }}Not specified{{ end }}</td></tr>
+      <tr><th scope="row">Weight (kg/m)</th><td>{{ index $p.source_fields "Weight (Kgs/Mtr)" }}</td></tr>
+      <tr><th scope="row">Length (m)</th><td>{{ index $p.source_fields "Length/Mtr" }}</td></tr>
+      <tr><th scope="row">Length weight</th><td>{{ $p.length_weight_as_printed }}</td></tr>
+      <tr><th scope="row">Pieces / bag</th><td>{{ $p.pieces_per_bag | int }}</td></tr>
+      <tr><th scope="row">Catalogue reference</th><td>Page {{ $p.source_page | int }}, entry {{ $p.source_serial | int }}</td></tr>
+    </tbody></table>
+    {{ if or (eq $p.product_code "SPHD65-21-1") (eq $p.product_code "SPHD60-41") (eq $p.product_code "STHD88-47") }}<p class="mb-0">This code has more than one specification in the catalogue. Include the catalogue reference when confirming your order.</p>{{ end }}
+    </details>
+    <div class="product-actions"><a class="btn btn-primary" href="{{ printf "%s?%s" ("contact/" | relURL) $query }}">Enquire about this profile</a><a href="{{ $card.RelPermalink }}" target="_blank" rel="noopener" aria-label="View {{ $p.product_code }} catalogue card (opens in a new tab)">Spec card ↗</a></div>
+  </div>
+</article>

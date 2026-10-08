@@ -1,0 +1,1445 @@
+=== PAGE 01 ===
+[Image-only page. See content.json for reviewed transcription and original artwork.]
+
+=== PAGE 02 ===
+[Image-only page. See content.json for reviewed transcription and original artwork.]
+
+=== PAGE 03 ===
+S.No.
+:
+1
+S.No.
+:
+2
+S.No.
+:
+3
+Product Description
+:
+60 Casement Frame
+Product Description
+:
+60 Casement Outward Sash
+Product Description
+:
+60 Casement Mullian
+Product Code
+:
+SPHD60-11
+Product Code
+:
+SPHD60-21
+Product Code
+:
+SPHD60-31
+Series
+:
+Casement
+Series
+:
+CW
+Series
+:
+CW
+Thickness 
+:
+2.0 mm
+Thickness 
+:
+2.5
+Thickness 
+:
+2.0 mm
+Weight (Kgs/Mtr)
+:
+1.0250
+Weight (Kgs/Mtr)
+:
+1.4330
+Weight (Kgs/Mtr)
+:
+1.1600
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length Weight
+:
+5.9450
+Length Weight
+:
+8.3114
+Length Weight
+:
+6.7280
+Pcs/Bag
+:
+6
+Pcs/Bag
+:
+6
+Pcs/Bag
+:
+6
+S.No.
+:
+4
+S.No.
+:
+5
+S.No.
+:
+6
+Product Description
+:
+60 Casement Frame
+Product Description
+:
+60 Casement Outward Sash
+Product Description
+:
+60 Casement Mullian
+Product Code
+:
+SPHD60-10
+Product Code
+:
+SPHD60-21
+Product Code
+:
+SPHD60-30
+Series
+:
+CW
+Series
+:
+CW
+Series
+:
+CW
+Thickness 
+:
+2.5 mm
+Thickness 
+:
+2.5
+Thickness 
+:
+2.5 mm
+Weight (Kgs/Mtr)
+:
+1.1190
+Weight (Kgs/Mtr)
+:
+1.4330
+Weight (Kgs/Mtr)
+:
+1.2480
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length Weight
+:
+6.4902
+Length Weight
+:
+8.3114
+Length Weight
+:
+7.2384
+Pcs/Bag
+:
+6
+Pcs/Bag
+:
+6
+Pcs/Bag
+:
+6
+60 casement series
+
+=== PAGE 04 ===
+S.No.
+:
+1
+S.No.
+:
+2
+S.No.
+:
+3
+Product Description
+:
+62 Sliding Frame H52
+Product Description
+:
+62 Sliding Sash H58
+Product Description
+:
+62 Sliding Sash H92
+Product Code
+:
+STHD62-10
+Product Code
+:
+STHD88-20
+Product Code
+:
+STHD62-22
+Series
+:
+62 SL
+Series
+:
+62 SL
+Series
+:
+62 SL
+Thickness 
+:
+2.5 mm
+Thickness 
+:
+2.5 mm
+Thickness 
+:
+2.5 mm
+Weight (Kgs/Mtr)
+:
+1.1940
+Weight (Kgs/Mtr)
+:
+0.9990
+Weight (Kgs/Mtr)
+:
+1.4120
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length Weight
+:
+6.9252
+Length Weight
+:
+5.7942
+Length Weight
+:
+8.1896
+Pcs/Bag
+:
+4
+Pcs/Bag
+:
+8
+Pcs/Bag
+:
+8
+S.No.
+:
+4
+S.No.
+:
+5
+S.No.
+:
+6
+Product Description
+:
+24 Glass Beading
+Product Description
+:
+7.5 Glass Beading
+Product Description
+:
+9 Glass Beading
+Product Code
+:
+STHD88-46
+Product Code
+:
+STHD80-40
+Product Code
+:
+STHD88-47
+Series
+:
+62 SL
+Series
+:
+62 SL
+Series
+:
+62 SL
+Thickness 
+:
+-
+Thickness 
+:
+-
+Thickness 
+:
+-
+Weight (Kgs/Mtr)
+:
+0.2360
+Weight (Kgs/Mtr)
+:
+0.1540
+Weight (Kgs/Mtr)
+:
+0.1540
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length Weight
+:
+1.3688
+Length Weight
+:
+0.8932
+Length Weight
+:
+0.8932
+Pcs/Bag
+:
+30
+Pcs/Bag
+:
+50
+Pcs/Bag
+:
+50
+62 SLIDING SERIES
+
+=== PAGE 05 ===
+S.No.
+:
+1
+S.No.
+:
+2
+S.No.
+:
+3
+Product Description
+:
+80 Sliding Frame H52
+Product Description
+:
+80 Sliding Sash H55
+Product Description
+:
+80 Sliding Frame H52
+Product Code
+:
+STHD80-10
+Product Code
+:
+STHD80-21 
+Product Code
+:
+STHD80-108
+Series
+:
+80 SL
+Series
+:
+80 SL
+Series
+:
+80 SL
+Thickness 
+:
+2.2 mm
+Thickness 
+:
+2.2 mm
+Thickness 
+:
+2.0 mm
+Weight (Kgs/Mtr)
+:
+1.3000
+Weight (Kgs/Mtr)
+:
+0.8480
+Weight (Kgs/Mtr)
+:
+1.0530
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length Weight
+:
+7.5400
+Length Weight
+:
+4.9184
+Length Weight
+:
+6.1074
+Pcs/Bag
+:
+4
+Pcs/Bag
+:
+8
+Pcs/Bag
+:
+4
+S.No.
+:
+4
+S.No.
+:
+5
+S.No.
+:
+6
+Product Description
+:
+80 Sliding Sash H58
+Product Description
+:
+6 Glass Beading
+Product Description
+:
+7.5 Glass Beading
+Product Code
+:
+STHD80-201 
+Product Code
+:
+STHD88-40
+Product Code
+:
+STHD80-40
+Series
+:
+80 SL
+Series
+:
+80 SL
+Series
+:
+80 SL
+Thickness 
+:
+2.0 mm
+Thickness 
+:
+-
+Thickness 
+:
+-
+Weight (Kgs/Mtr)
+:
+0.6670
+Weight (Kgs/Mtr)
+:
+0.1490
+Weight (Kgs/Mtr)
+:
+0.1540
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length Weight
+:
+3.8686
+Length Weight
+:
+0.8642
+Length Weight
+:
+0.8932
+Pcs/Bag
+:
+6
+Pcs/Bag
+:
+50
+Pcs/Bag
+:
+50
+80 SLIDING SERIES
+
+=== PAGE 06 ===
+S.No.
+:
+7
+S.No.
+:
+8
+S.No.
+:
+9
+Product Description
+:
+19.5 Glass Beading
+Product Description
+:
+80 Sliding Sash Cover
+Product Description
+:
+90° Bay  Corner
+Product Code
+:
+STHD80-41
+Product Code
+:
+STHD80-51
+Product Code
+:
+STHD80-74
+Series
+:
+80 SL
+Series
+:
+80 SL
+Series
+:
+80 SL
+Thickness 
+:
+-
+Thickness 
+:
+-
+Thickness 
+:
+-
+Weight (Kgs/Mtr)
+:
+0.2100
+Weight (Kgs/Mtr)
+:
+0.1880
+Weight (Kgs/Mtr)
+:
+0.9890
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length Weight
+:
+1.2180
+Length Weight
+:
+1.0904
+Length Weight
+:
+5.7362
+Pcs/Bag
+:
+30
+Pcs/Bag
+:
+30
+Pcs/Bag
+:
+4
+S.No.
+:
+10
+S.No.
+:
+11
+Product Description
+:
+80 Tube Adaptor
+Product Description
+:
+80 Screen Sash
+Product Code
+:
+STHD80-80
+Product Code
+:
+STHD80-50
+Series
+:
+80 SL
+Series
+:
+80 SL
+Thickness 
+:
+-
+Thickness 
+:
+-
+Weight (Kgs/Mtr)
+:
+1.0000
+Weight (Kgs/Mtr)
+:
+0.4390
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length Weight
+:
+5.8000
+Length Weight
+:
+2.5462
+Pcs/Bag
+:
+4
+Pcs/Bag
+:
+16
+80 SLIDING SERIES
+
+=== PAGE 07 ===
+S.No.
+:
+1
+S.No.
+:
+2
+S.No.
+:
+3
+Product Description
+:
+88 Sliding Frame H52
+Product Description
+:
+88 Sliding Sash H58
+Product Description
+:
+88 Sliding Frame H52
+Product Code
+:
+STHD88-10
+Product Code
+:
+STHD88-20
+Product Code
+:
+STHP88-10
+Series
+:
+88 SL
+Series
+:
+88 SL
+Series
+:
+88 SL
+Thickness 
+:
+2.5 mm
+Thickness 
+:
+2.5 mm
+Thickness 
+:
+2.0 mm
+Weight (Kgs/Mtr)
+:
+1.4980
+Weight (Kgs/Mtr)
+:
+0.9990
+Weight (Kgs/Mtr)
+:
+1.2660
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length Weight
+:
+8.6884
+Length Weight
+:
+5.7942
+Length Weight
+:
+7.3428
+Pcs/Bag
+:
+4
+Pcs/Bag
+:
+8
+Pcs/Bag
+:
+4
+S.No.
+:
+4
+S.No.
+:
+5
+S.No.
+:
+6
+Product Description
+:
+88 Sliding Sash H58
+Product Description
+:
+6 Glass Beading
+Product Description
+:
+7.5 Glass Beading
+Product Code
+:
+STHP88-20
+Product Code
+:
+STHD88-40
+Product Code
+:
+STHD80-40
+Series
+:
+88 SL
+Series
+:
+88 SL
+Series
+:
+88 SL
+Thickness 
+:
+2.0 mm
+Thickness 
+:
+1.4 mm
+Thickness 
+:
+1.4 mm
+Weight (Kgs/Mtr)
+:
+0.7540
+Weight (Kgs/Mtr)
+:
+0.1490
+Weight (Kgs/Mtr)
+:
+0.1540
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length Weight
+:
+4.3732
+Length Weight
+:
+0.8642
+Length Weight
+:
+0.8932
+Pcs/Bag
+:
+8
+Pcs/Bag
+:
+50
+Pcs/Bag
+:
+50
+88 SLIDING SERIES
+
+=== PAGE 08 ===
+S.No.
+:
+7
+S.No.
+:
+8
+Product Description
+:
+9 Glass Beading
+Product Description
+:
+24 Glass Beading
+Product Code
+:
+STHD88-47
+Product Code
+:
+STHD88-46
+Series
+:
+88 SL
+Series
+:
+88 SL
+Thickness 
+:
+1.4 mm
+Thickness 
+:
+1.4 mm
+Weight (Kgs/Mtr)
+:
+0.1540
+Weight (Kgs/Mtr)
+:
+0.236
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.8000
+Length Weight
+:
+0.8932
+Length Weight
+:
+1.369
+Pcs/Bag
+:
+30
+Pcs/Bag
+:
+30
+88 SLIDING SERIES
+
+=== PAGE 09 ===
+S.No.
+:
+7
+S.No.
+:
+8
+S.No.
+:
+9
+Product Description
+:
+60 Casement Inward Sash
+Product Description
+:
+60 Casement Inward Sash
+Product Description
+:
+17 Glass Beading
+Product Code
+:
+SPHD60-24
+Product Code
+:
+SPHD60-20
+Product Code
+:
+SPHD60-40
+Series
+:
+CW
+Series
+:
+CW
+Series
+:
+CW
+Thickness 
+:
+2.0 mm
+Thickness 
+:
+2.5 mm
+Thickness 
+:
+-
+Weight (Kgs/Mtr)
+:
+1.1790
+Weight (Kgs/Mtr)
+:
+1.2630
+Weight (Kgs/Mtr)
+:
+0.2180
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length Weight
+:
+6.8382
+Length Weight
+:
+7.3254
+Length Weight
+:
+1.2644
+Pcs/Bag
+:
+6
+Pcs/Bag
+:
+6
+Pcs/Bag
+:
+24
+S.No.
+:
+10
+S.No.
+:
+11
+S.No.
+:
+12
+Product Description
+:
+19 Glass Beading
+Product Description
+:
+34 Glass Beading
+Product Description
+:
+15 Glass Beading
+Product Code
+:
+SPHD60-41
+Product Code
+:
+SPHD60-42
+Product Code
+:
+SPHD60-43
+Series
+:
+CW
+Series
+:
+CW
+Series
+:
+CW
+Thickness 
+:
+-
+Thickness 
+:
+-
+Thickness 
+:
+-
+Weight (Kgs/Mtr)
+:
+0.2170
+Weight (Kgs/Mtr)
+:
+0.2960
+Weight (Kgs/Mtr)
+:
+0.2100
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length Weight
+:
+1.2586
+Length Weight
+:
+1.7168
+Length Weight
+:
+1.2180
+Pcs/Bag
+:
+30
+Pcs/Bag
+:
+24
+Pcs/Bag
+:
+30
+60 casement series
+
+=== PAGE 10 ===
+S.No.
+:
+13
+S.No.
+:
+14
+S.No.
+:
+15
+Product Description
+:
+90° Bay  Corner
+Product Description
+:
+80 Tube Adaptor
+Product Description
+:
+Cashment Screen Sash
+Product Code
+:
+SPHD60-70
+Product Code
+:
+SPHD60-76
+Product Code
+:
+SPHD60-52
+Series
+:
+CW
+Series
+:
+CW
+Series
+:
+CW
+Thickness 
+:
+-
+Thickness 
+:
+-
+Thickness 
+:
+-
+Weight (Kgs/Mtr)
+:
+0.7210
+Weight (Kgs/Mtr)
+:
+0.6650
+Weight (Kgs/Mtr)
+:
+0.4720
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length Weight
+:
+4.1818
+Length Weight
+:
+3.8570
+Length Weight
+:
+2.7376
+Pcs/Bag
+:
+4
+Pcs/Bag
+:
+10
+Pcs/Bag
+:
+16
+60 casement series
+
+=== PAGE 11 ===
+S.No.
+:
+1
+S.No.
+:
+2
+S.No.
+:
+3
+Product Description
+:
+65 Casement Frame
+Product Description
+:
+65 Casement Mullian
+Product Description
+:
+65 Casement Outward Door Sash
+Product Code
+:
+SPHD65-10
+Product Code
+:
+SPHD65-30
+Product Code
+:
+SPHD65-21-1
+Series
+:
+65 CW
+Series
+:
+65 CW
+Series
+:
+65 CW
+Thickness 
+:
+2.6 mm
+Thickness 
+:
+2.6 mm
+Thickness 
+:
+2.6 mm
+Weight (Kgs/Mtr)
+:
+1.3600
+Weight (Kgs/Mtr)
+:
+1.6210
+Weight (Kgs/Mtr)
+:
+1.8590
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length Weight
+:
+7.8880
+Length Weight
+:
+9.4018
+Length Weight
+:
+10.7822
+Pcs/Bag
+:
+4
+Pcs/Bag
+:
+4
+Pcs/Bag
+:
+4
+S.No.
+:
+4
+S.No.
+:
+5
+S.No.
+:
+6
+Product Description
+:
+65 Casement Inward Door Sash
+Product Description
+:
+65 Casemnt Frame
+Product Description
+:
+65 Casement Mullian
+Product Code
+:
+SPHD65-20
+Product Code
+:
+SPHD65-11
+Product Code
+:
+SPHD65-31
+Series
+:
+65 CW
+Series
+:
+65 CW
+Series
+:
+65 CW
+Thickness 
+:
+2.6 mm
+Thickness 
+:
+2.5 mm
+Thickness 
+:
+2.5 mm
+Weight (Kgs/Mtr)
+:
+1.3880
+Weight (Kgs/Mtr)
+:
+1.2370
+Weight (Kgs/Mtr)
+:
+1.4710
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length Weight
+:
+8.0504
+Length Weight
+:
+7.1746
+Length Weight
+:
+8.5318
+Pcs/Bag
+:
+4
+Pcs/Bag
+:
+4
+Pcs/Bag
+:
+4
+65 casement series
+
+=== PAGE 12 ===
+S.No.
+:
+7
+S.No.
+:
+8
+S.No.
+:
+9
+Product Description
+:
+65 Casement Outward Door Sash
+Product Description
+:
+65 Casement Inward Door Sash
+Product Description
+:
+21 Frame Glass Beading
+Product Code
+:
+SPHD65-21-1
+Product Code
+:
+SPHD65-22
+Product Code
+:
+SPHD60-41
+Series
+:
+65 CW
+Series
+:
+65 CW
+Series
+:
+65 CW
+Thickness 
+:
+2.5 mm
+Thickness 
+:
+2.5 mm
+Thickness 
+:
+-
+Weight (Kgs/Mtr)
+:
+1.8590
+Weight (Kgs/Mtr)
+:
+1.3700
+Weight (Kgs/Mtr)
+:
+0.2620
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length Weight
+:
+10.7822
+Length Weight
+:
+7.9460
+Length Weight
+:
+1.5196
+Pcs/Bag
+:
+4
+Pcs/Bag
+:
+4
+Pcs/Bag
+:
+24
+S.No.
+:
+10
+S.No.
+:
+11
+S.No.
+:
+12
+Product Description
+:
+22 Frame Glass Beading
+Product Description
+:
+24 Frame Glass Beading
+Product Description
+:
+24 Sash Glass Beading
+Product Code
+:
+SPHD65-41
+Product Code
+:
+SPHD65-40
+Product Code
+:
+SPHD65-42
+Series
+:
+65 CW
+Series
+:
+65 CW
+Series
+:
+65 CW
+Thickness 
+:
+-
+Thickness 
+:
+-
+Thickness 
+:
+-
+Weight (Kgs/Mtr)
+:
+0.3130
+Weight (Kgs/Mtr)
+:
+0.3210
+Weight (Kgs/Mtr)
+:
+0.2800
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length/Mtr
+:
+5.800
+Length Weight
+:
+1.8154
+Length Weight
+:
+1.8618
+Length Weight
+:
+1.6240
+Pcs/Bag
+:
+24
+Pcs/Bag
+:
+24
+Pcs/Bag
+:
+24
+65 casement series
+
+=== PAGE 13 ===
+[Image-only page. See content.json for reviewed transcription and original artwork.]
+
+=== PAGE 14 ===
+[Image-only page. See content.json for reviewed transcription and original artwork.]

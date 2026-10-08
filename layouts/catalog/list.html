@@ -1,0 +1,18 @@
+{{ define "main" }}{{ partial "catalog/page-header.html" . }}
+{{ $products := partialCached "catalog/products.html" . }}
+{{ $seriesId := .Params.series | default "" }}
+{{ if $seriesId }}{{ $products = where $products "series_group" $seriesId }}{{ end }}
+{{ if not $seriesId }}<section class="section-space"><div class="container"><div class="section-title"><p class="eyebrow">FIND YOUR SYSTEM</p><h2>Casement and sliding profiles.</h2><p>Choose a series to see its frames, sashes, and complementary profiles, or search the complete range below.</p></div>{{ partial "catalog/series-grid.html" . }}</div></section>{{ end }}
+<section class="page-content {{ if not $seriesId }}bg-paper{{ end }}" id="catalogue"><div class="container" data-catalog>
+  {{ if not $seriesId }}<div class="section-title"><p class="eyebrow">THE COMPLETE RANGE</p><h2>Find your profile.</h2></div>{{ end }}
+  <nav class="series-nav" aria-label="Profile series"><a href="{{ "products/#catalogue" | relURL }}" {{ if not $seriesId }}aria-current="page"{{ end }}>All profiles</a>{{ range hugo.Data.catalog.series }}<a href="{{ printf "products/%s/" .id | relURL }}" {{ if eq $seriesId .id }}aria-current="page"{{ end }}>{{ .title }}</a>{{ end }}</nav>
+  <div class="catalog-toolbar" data-catalog-controls hidden><div class="catalog-search"><label for="product-search">Search profiles</label><input id="product-search" class="form-control" type="search" placeholder="Product code, frame, sash, glass beading…" autocomplete="off"></div>
+    {{ if not $seriesId }}<div class="catalog-series-filter"><label for="series-filter">Profile series</label><select id="series-filter" class="form-select"><option value="">All series</option>{{ range hugo.Data.catalog.series }}<option value="{{ .id }}">{{ .title }}</option>{{ end }}</select></div>{{ end }}
+    <button class="btn btn-outline-primary" type="button" data-clear-search>Clear filters</button>
+  </div>
+  <p class="catalog-count" data-product-count aria-live="polite">{{ len $products }} catalogue profiles</p>
+  <div class="product-grid">{{ range $products }}{{ partial "catalog/product-card.html" . }}{{ end }}</div>
+  <div class="catalog-empty" data-empty-state hidden><h2 class="h4">No matching profiles</h2><p>Try a shorter product code, another description, or clear the filters to see the full range.</p><button class="btn btn-primary" type="button" data-clear-search>Show all profiles</button></div>
+  <p class="catalog-note">Specifications are reproduced from the SRI STAR product catalogue. Some components appear in more than one series. Please confirm the profile reference, specification, and availability with Kalpana Traders before ordering.</p>
+  {{ $pdf := partialCached "catalog/pdf.html" . }}<a class="section-link" href="{{ $pdf.RelPermalink }}" download>Download the complete product catalogue ↓</a>
+</div></section>{{ partial "catalog/cta.html" . }}{{ end }}
